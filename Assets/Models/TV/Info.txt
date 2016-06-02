@@ -1,0 +1,3 @@
+Item name:TV
+
+Triangle Count: 92

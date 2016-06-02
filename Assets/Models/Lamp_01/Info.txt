@@ -1,0 +1,3 @@
+Item name:deskLamp
+
+Triangle Count: 58

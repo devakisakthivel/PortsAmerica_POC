@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: 40eddac7578cc7f49830fa8f3c27acae
+timeCreated: 1464102101
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottle
+    100002: bottle 1
+    100004: bottle 2
+    100006: bottle 3
+    100008: bottle3
+    100010: bottle3 1
+    100012: bottle3 2
+    100014: bottle3 3
+    100016: bottle4
+    100018: bottle4 1
+    100020: bottle4 2
+    100022: bottle4 3
+    100024: CF_Blinds
+    100026: CF_Lights
+    100028: chair_010
+    100030: chair_011
+    100032: chair_04
+    100034: chair_05
+    100036: chair_06
+    100038: chair_07
+    100040: chair_08
+    100042: chair_09
+    100044: Conference_Table
+    100046: //RootNode
+    100048: ConferenceRoom_Walls
+    100050: Document_07
+    100052: Document_08
+    100054: group19
+    100056: group19 1
+    100058: group19 2
+    100060: group19 3
+    100062: Moulding
+    100064: Pencil_Holder1
+    100066: Pencil_Holder2
+    100068: Planter
+    100070: Planter 1
+    100072: PottedPlant_Group1
+    100074: PottedPlant_Group2
+    100076: pPlane10
+    100078: pPlane10 1
+    100080: pPlane11
+    100082: pPlane11 1
+    100084: pPlane12
+    100086: pPlane12 1
+    100088: pPlane13
+    100090: pPlane13 1
+    100092: pPlane14
+    100094: pPlane14 1
+    100096: pPlane15
+    100098: pPlane15 1
+    100100: pPlane16
+    100102: pPlane16 1
+    100104: pPlane17
+    100106: pPlane17 1
+    100108: pPlane18
+    100110: pPlane18 1
+    100112: pPlane19
+    100114: pPlane19 1
+    100116: pPlane20
+    100118: pPlane20 1
+    100120: pPlane21
+    100122: pPlane21 1
+    100124: pPlane22
+    100126: pPlane22 1
+    100128: pPlane23
+    100130: pPlane23 1
+    100132: pPlane24
+    100134: pPlane24 1
+    100136: pPlane25
+    100138: pPlane25 1
+    100140: pPlane26
+    100142: pPlane26 1
+    100144: pPlane27
+    100146: pPlane27 1
+    100148: pPlane28
+    100150: pPlane28 1
+    100152: pPlane29
+    100154: pPlane29 1
+    100156: pPlane30
+    100158: pPlane30 1
+    100160: pPlane31
+    100162: pPlane31 1
+    100164: pPlane32
+    100166: pPlane32 1
+    100168: pPlane33
+    100170: pPlane33 1
+    100172: pPlane34
+    100174: pPlane34 1
+    100176: pPlane35
+    100178: pPlane35 1
+    100180: pPlane36
+    100182: pPlane36 1
+    100184: pPlane37
+    100186: pPlane37 1
+    100188: pPlane38
+    100190: pPlane38 1
+    100192: pPlane39
+    100194: pPlane39 1
+    100196: pPlane40
+    100198: pPlane40 1
+    100200: pPlane41
+    100202: pPlane41 1
+    100204: pPlane42
+    100206: pPlane42 1
+    100208: pPlane43
+    100210: pPlane43 1
+    100212: pPlane44
+    100214: pPlane44 1
+    100216: pPlane45
+    100218: pPlane45 1
+    100220: pPlane46
+    100222: pPlane46 1
+    100224: pPlane5
+    100226: pPlane5 1
+    100228: pPlane6
+    100230: pPlane6 1
+    100232: pPlane7
+    100234: pPlane7 1
+    100236: pPlane8
+    100238: pPlane8 1
+    100240: pPlane9
+    100242: pPlane9 1
+    100244: redBook_015
+    100246: TV
+    100248: TV_Stand
+    100250: Water_Group1
+    100252: Water_Group2
+    100254: Water_Group3
+    100256: Water_Group4
+    100258: WaterBottle_Group
+    100260: WaterBottle_Group 1
+    100262: WaterBottle_Group 2
+    100264: WaterBottle_Group 3
+    100266: lightHolder
+    100268: Lights
+    400000: bottle
+    400002: bottle 1
+    400004: bottle 2
+    400006: bottle 3
+    400008: bottle3
+    400010: bottle3 1
+    400012: bottle3 2
+    400014: bottle3 3
+    400016: bottle4
+    400018: bottle4 1
+    400020: bottle4 2
+    400022: bottle4 3
+    400024: CF_Blinds
+    400026: CF_Lights
+    400028: chair_010
+    400030: chair_011
+    400032: chair_04
+    400034: chair_05
+    400036: chair_06
+    400038: chair_07
+    400040: chair_08
+    400042: chair_09
+    400044: Conference_Table
+    400046: //RootNode
+    400048: ConferenceRoom_Walls
+    400050: Document_07
+    400052: Document_08
+    400054: group19
+    400056: group19 1
+    400058: group19 2
+    400060: group19 3
+    400062: Moulding
+    400064: Pencil_Holder1
+    400066: Pencil_Holder2
+    400068: Planter
+    400070: Planter 1
+    400072: PottedPlant_Group1
+    400074: PottedPlant_Group2
+    400076: pPlane10
+    400078: pPlane10 1
+    400080: pPlane11
+    400082: pPlane11 1
+    400084: pPlane12
+    400086: pPlane12 1
+    400088: pPlane13
+    400090: pPlane13 1
+    400092: pPlane14
+    400094: pPlane14 1
+    400096: pPlane15
+    400098: pPlane15 1
+    400100: pPlane16
+    400102: pPlane16 1
+    400104: pPlane17
+    400106: pPlane17 1
+    400108: pPlane18
+    400110: pPlane18 1
+    400112: pPlane19
+    400114: pPlane19 1
+    400116: pPlane20
+    400118: pPlane20 1
+    400120: pPlane21
+    400122: pPlane21 1
+    400124: pPlane22
+    400126: pPlane22 1
+    400128: pPlane23
+    400130: pPlane23 1
+    400132: pPlane24
+    400134: pPlane24 1
+    400136: pPlane25
+    400138: pPlane25 1
+    400140: pPlane26
+    400142: pPlane26 1
+    400144: pPlane27
+    400146: pPlane27 1
+    400148: pPlane28
+    400150: pPlane28 1
+    400152: pPlane29
+    400154: pPlane29 1
+    400156: pPlane30
+    400158: pPlane30 1
+    400160: pPlane31
+    400162: pPlane31 1
+    400164: pPlane32
+    400166: pPlane32 1
+    400168: pPlane33
+    400170: pPlane33 1
+    400172: pPlane34
+    400174: pPlane34 1
+    400176: pPlane35
+    400178: pPlane35 1
+    400180: pPlane36
+    400182: pPlane36 1
+    400184: pPlane37
+    400186: pPlane37 1
+    400188: pPlane38
+    400190: pPlane38 1
+    400192: pPlane39
+    400194: pPlane39 1
+    400196: pPlane40
+    400198: pPlane40 1
+    400200: pPlane41
+    400202: pPlane41 1
+    400204: pPlane42
+    400206: pPlane42 1
+    400208: pPlane43
+    400210: pPlane43 1
+    400212: pPlane44
+    400214: pPlane44 1
+    400216: pPlane45
+    400218: pPlane45 1
+    400220: pPlane46
+    400222: pPlane46 1
+    400224: pPlane5
+    400226: pPlane5 1
+    400228: pPlane6
+    400230: pPlane6 1
+    400232: pPlane7
+    400234: pPlane7 1
+    400236: pPlane8
+    400238: pPlane8 1
+    400240: pPlane9
+    400242: pPlane9 1
+    400244: redBook_015
+    400246: TV
+    400248: TV_Stand
+    400250: Water_Group1
+    400252: Water_Group2
+    400254: Water_Group3
+    400256: Water_Group4
+    400258: WaterBottle_Group
+    400260: WaterBottle_Group 1
+    400262: WaterBottle_Group 2
+    400264: WaterBottle_Group 3
+    400266: lightHolder
+    400268: Lights
+    2300000: bottle
+    2300002: bottle 1
+    2300004: bottle 2
+    2300006: bottle 3
+    2300008: bottle3
+    2300010: bottle3 1
+    2300012: bottle3 2
+    2300014: bottle3 3
+    2300016: bottle4
+    2300018: bottle4 1
+    2300020: bottle4 2
+    2300022: bottle4 3
+    2300024: CF_Blinds
+    2300026: CF_Lights
+    2300028: chair_010
+    2300030: chair_011
+    2300032: chair_04
+    2300034: chair_05
+    2300036: chair_06
+    2300038: chair_07
+    2300040: chair_08
+    2300042: chair_09
+    2300044: Conference_Table
+    2300046: ConferenceRoom_Walls
+    2300048: Document_07
+    2300050: Document_08
+    2300052: Moulding
+    2300054: Pencil_Holder1
+    2300056: Pencil_Holder2
+    2300058: Planter
+    2300060: Planter 1
+    2300062: pPlane10
+    2300064: pPlane10 1
+    2300066: pPlane11
+    2300068: pPlane11 1
+    2300070: pPlane12
+    2300072: pPlane12 1
+    2300074: pPlane13
+    2300076: pPlane13 1
+    2300078: pPlane14
+    2300080: pPlane14 1
+    2300082: pPlane15
+    2300084: pPlane15 1
+    2300086: pPlane16
+    2300088: pPlane16 1
+    2300090: pPlane17
+    2300092: pPlane17 1
+    2300094: pPlane18
+    2300096: pPlane18 1
+    2300098: pPlane19
+    2300100: pPlane19 1
+    2300102: pPlane20
+    2300104: pPlane20 1
+    2300106: pPlane21
+    2300108: pPlane21 1
+    2300110: pPlane22
+    2300112: pPlane22 1
+    2300114: pPlane23
+    2300116: pPlane23 1
+    2300118: pPlane24
+    2300120: pPlane24 1
+    2300122: pPlane25
+    2300124: pPlane25 1
+    2300126: pPlane26
+    2300128: pPlane26 1
+    2300130: pPlane27
+    2300132: pPlane27 1
+    2300134: pPlane28
+    2300136: pPlane28 1
+    2300138: pPlane29
+    2300140: pPlane29 1
+    2300142: pPlane30
+    2300144: pPlane30 1
+    2300146: pPlane31
+    2300148: pPlane31 1
+    2300150: pPlane32
+    2300152: pPlane32 1
+    2300154: pPlane33
+    2300156: pPlane33 1
+    2300158: pPlane34
+    2300160: pPlane34 1
+    2300162: pPlane35
+    2300164: pPlane35 1
+    2300166: pPlane36
+    2300168: pPlane36 1
+    2300170: pPlane37
+    2300172: pPlane37 1
+    2300174: pPlane38
+    2300176: pPlane38 1
+    2300178: pPlane39
+    2300180: pPlane39 1
+    2300182: pPlane40
+    2300184: pPlane40 1
+    2300186: pPlane41
+    2300188: pPlane41 1
+    2300190: pPlane42
+    2300192: pPlane42 1
+    2300194: pPlane43
+    2300196: pPlane43 1
+    2300198: pPlane44
+    2300200: pPlane44 1
+    2300202: pPlane45
+    2300204: pPlane45 1
+    2300206: pPlane46
+    2300208: pPlane46 1
+    2300210: pPlane5
+    2300212: pPlane5 1
+    2300214: pPlane6
+    2300216: pPlane6 1
+    2300218: pPlane7
+    2300220: pPlane7 1
+    2300222: pPlane8
+    2300224: pPlane8 1
+    2300226: pPlane9
+    2300228: pPlane9 1
+    2300230: redBook_015
+    2300232: TV
+    2300234: TV_Stand
+    2300236: WaterBottle_Group
+    2300238: WaterBottle_Group 1
+    2300240: WaterBottle_Group 2
+    2300242: WaterBottle_Group 3
+    2300244: lightHolder
+    2300246: Lights
+    3300000: bottle
+    3300002: bottle 1
+    3300004: bottle 2
+    3300006: bottle 3
+    3300008: bottle3
+    3300010: bottle3 1
+    3300012: bottle3 2
+    3300014: bottle3 3
+    3300016: bottle4
+    3300018: bottle4 1
+    3300020: bottle4 2
+    3300022: bottle4 3
+    3300024: CF_Blinds
+    3300026: CF_Lights
+    3300028: chair_010
+    3300030: chair_011
+    3300032: chair_04
+    3300034: chair_05
+    3300036: chair_06
+    3300038: chair_07
+    3300040: chair_08
+    3300042: chair_09
+    3300044: Conference_Table
+    3300046: ConferenceRoom_Walls
+    3300048: Document_07
+    3300050: Document_08
+    3300052: Moulding
+    3300054: Pencil_Holder1
+    3300056: Pencil_Holder2
+    3300058: Planter
+    3300060: Planter 1
+    3300062: pPlane10
+    3300064: pPlane10 1
+    3300066: pPlane11
+    3300068: pPlane11 1
+    3300070: pPlane12
+    3300072: pPlane12 1
+    3300074: pPlane13
+    3300076: pPlane13 1
+    3300078: pPlane14
+    3300080: pPlane14 1
+    3300082: pPlane15
+    3300084: pPlane15 1
+    3300086: pPlane16
+    3300088: pPlane16 1
+    3300090: pPlane17
+    3300092: pPlane17 1
+    3300094: pPlane18
+    3300096: pPlane18 1
+    3300098: pPlane19
+    3300100: pPlane19 1
+    3300102: pPlane20
+    3300104: pPlane20 1
+    3300106: pPlane21
+    3300108: pPlane21 1
+    3300110: pPlane22
+    3300112: pPlane22 1
+    3300114: pPlane23
+    3300116: pPlane23 1
+    3300118: pPlane24
+    3300120: pPlane24 1
+    3300122: pPlane25
+    3300124: pPlane25 1
+    3300126: pPlane26
+    3300128: pPlane26 1
+    3300130: pPlane27
+    3300132: pPlane27 1
+    3300134: pPlane28
+    3300136: pPlane28 1
+    3300138: pPlane29
+    3300140: pPlane29 1
+    3300142: pPlane30
+    3300144: pPlane30 1
+    3300146: pPlane31
+    3300148: pPlane31 1
+    3300150: pPlane32
+    3300152: pPlane32 1
+    3300154: pPlane33
+    3300156: pPlane33 1
+    3300158: pPlane34
+    3300160: pPlane34 1
+    3300162: pPlane35
+    3300164: pPlane35 1
+    3300166: pPlane36
+    3300168: pPlane36 1
+    3300170: pPlane37
+    3300172: pPlane37 1
+    3300174: pPlane38
+    3300176: pPlane38 1
+    3300178: pPlane39
+    3300180: pPlane39 1
+    3300182: pPlane40
+    3300184: pPlane40 1
+    3300186: pPlane41
+    3300188: pPlane41 1
+    3300190: pPlane42
+    3300192: pPlane42 1
+    3300194: pPlane43
+    3300196: pPlane43 1
+    3300198: pPlane44
+    3300200: pPlane44 1
+    3300202: pPlane45
+    3300204: pPlane45 1
+    3300206: pPlane46
+    3300208: pPlane46 1
+    3300210: pPlane5
+    3300212: pPlane5 1
+    3300214: pPlane6
+    3300216: pPlane6 1
+    3300218: pPlane7
+    3300220: pPlane7 1
+    3300222: pPlane8
+    3300224: pPlane8 1
+    3300226: pPlane9
+    3300228: pPlane9 1
+    3300230: redBook_015
+    3300232: TV
+    3300234: TV_Stand
+    3300236: WaterBottle_Group
+    3300238: WaterBottle_Group 1
+    3300240: WaterBottle_Group 2
+    3300242: WaterBottle_Group 3
+    3300244: lightHolder
+    3300246: Lights
+    4300000: Conference_Table
+    4300002: chair_04
+    4300004: chair_05
+    4300006: chair_06
+    4300008: chair_07
+    4300010: chair_08
+    4300012: chair_09
+    4300014: chair_010
+    4300016: chair_011
+    4300018: Pencil_Holder1
+    4300020: Pencil_Holder2
+    4300022: Document_07
+    4300024: redBook_015
+    4300026: Document_08
+    4300028: bottle
+    4300030: bottle4
+    4300032: bottle3
+    4300034: WaterBottle_Group
+    4300036: bottle
+    4300038: bottle4
+    4300040: bottle3
+    4300042: WaterBottle_Group
+    4300044: bottle
+    4300046: bottle4
+    4300048: bottle3
+    4300050: WaterBottle_Group
+    4300052: bottle
+    4300054: bottle4
+    4300056: bottle3
+    4300058: WaterBottle_Group
+    4300060: pPlane5
+    4300062: pPlane6
+    4300064: pPlane7
+    4300066: pPlane8
+    4300068: pPlane9
+    4300070: pPlane10
+    4300072: pPlane11
+    4300074: pPlane12
+    4300076: pPlane13
+    4300078: pPlane14
+    4300080: pPlane15
+    4300082: pPlane16
+    4300084: pPlane17
+    4300086: pPlane18
+    4300088: pPlane19
+    4300090: pPlane20
+    4300092: pPlane21
+    4300094: pPlane22
+    4300096: pPlane23
+    4300098: pPlane24
+    4300100: pPlane25
+    4300102: pPlane26
+    4300104: pPlane27
+    4300106: pPlane28
+    4300108: pPlane29
+    4300110: pPlane30
+    4300112: pPlane31
+    4300114: pPlane32
+    4300116: pPlane33
+    4300118: pPlane34
+    4300120: pPlane35
+    4300122: pPlane36
+    4300124: pPlane37
+    4300126: pPlane38
+    4300128: pPlane39
+    4300130: pPlane40
+    4300132: pPlane41
+    4300134: pPlane42
+    4300136: pPlane43
+    4300138: pPlane44
+    4300140: pPlane45
+    4300142: pPlane46
+    4300144: Planter
+    4300146: pPlane5
+    4300148: pPlane6
+    4300150: pPlane7
+    4300152: pPlane8
+    4300154: pPlane9
+    4300156: pPlane10
+    4300158: pPlane11
+    4300160: pPlane12
+    4300162: pPlane13
+    4300164: pPlane14
+    4300166: pPlane15
+    4300168: pPlane16
+    4300170: pPlane17
+    4300172: pPlane18
+    4300174: pPlane19
+    4300176: pPlane20
+    4300178: pPlane21
+    4300180: pPlane22
+    4300182: pPlane23
+    4300184: pPlane24
+    4300186: pPlane25
+    4300188: pPlane26
+    4300190: pPlane27
+    4300192: pPlane28
+    4300194: pPlane29
+    4300196: pPlane30
+    4300198: pPlane31
+    4300200: pPlane32
+    4300202: pPlane33
+    4300204: pPlane34
+    4300206: pPlane35
+    4300208: pPlane36
+    4300210: pPlane37
+    4300212: pPlane38
+    4300214: pPlane39
+    4300216: pPlane40
+    4300218: pPlane41
+    4300220: pPlane42
+    4300222: pPlane43
+    4300224: pPlane44
+    4300226: pPlane45
+    4300228: pPlane46
+    4300230: Planter
+    4300232: ConferenceRoom_Walls
+    4300234: TV_Stand
+    4300236: TV
+    4300238: CF_Lights
+    4300240: CF_Blinds
+    4300242: Moulding
+    4300244: lightHolder
+    4300246: Lights
+    6400000: bottle
+    6400002: bottle 1
+    6400004: bottle 2
+    6400006: bottle 3
+    6400008: bottle3
+    6400010: bottle3 1
+    6400012: bottle3 2
+    6400014: bottle3 3
+    6400016: bottle4
+    6400018: bottle4 1
+    6400020: bottle4 2
+    6400022: bottle4 3
+    6400024: CF_Blinds
+    6400026: CF_Lights
+    6400028: chair_010
+    6400030: chair_011
+    6400032: chair_04
+    6400034: chair_05
+    6400036: chair_06
+    6400038: chair_07
+    6400040: chair_08
+    6400042: chair_09
+    6400044: Conference_Table
+    6400046: ConferenceRoom_Walls
+    6400048: Document_07
+    6400050: Document_08
+    6400052: lightHolder
+    6400054: Lights
+    6400056: Moulding
+    6400058: Pencil_Holder1
+    6400060: Pencil_Holder2
+    6400062: Planter
+    6400064: pPlane37
+    6400066: redBook_015
+    6400068: TV
+    6400070: TV_Stand
+    6400072: WaterBottle_Group
+    6400074: WaterBottle_Group 1
+    6400076: WaterBottle_Group 2
+    6400078: WaterBottle_Group 3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

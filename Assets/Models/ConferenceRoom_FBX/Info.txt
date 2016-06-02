@@ -1,0 +1,3 @@
+Conference Room Environment
+
+Triangle Count = 10,825

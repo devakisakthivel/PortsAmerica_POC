@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: c4d7f652197cbd3428c27e47de64ca8f
+timeCreated: 1464400767
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Black_metal
+    100002: Body
+    100004: Bolts
+    100006: Chrome
+    100008: //RootNode
+    100010: Front_wheels
+    100012: Handle
+    100014: Handle_base
+    100016: Handle_bolts
+    100018: Handle_Helper_01
+    100020: Handle_Helper_02
+    100022: Handle_pipe
+    100024: Iron_nails
+    100026: Main_wheel
+    100028: Main_wheel_base
+    100030: Plastic
+    100032: Powered_pallet_jack
+    100034: Small_whell_01
+    100036: Small_whell_02
+    100038: Small_whell_base_01
+    100040: Small_whell_base_02
+    100042: Wheel_Helper
+    100044: Wood_Board
+    400000: Black_metal
+    400002: Body
+    400004: Bolts
+    400006: Chrome
+    400008: //RootNode
+    400010: Front_wheels
+    400012: Handle
+    400014: Handle_base
+    400016: Handle_bolts
+    400018: Handle_Helper_01
+    400020: Handle_Helper_02
+    400022: Handle_pipe
+    400024: Iron_nails
+    400026: Main_wheel
+    400028: Main_wheel_base
+    400030: Plastic
+    400032: Powered_pallet_jack
+    400034: Small_whell_01
+    400036: Small_whell_02
+    400038: Small_whell_base_01
+    400040: Small_whell_base_02
+    400042: Wheel_Helper
+    400044: Wood_Board
+    2300000: Black_metal
+    2300002: Body
+    2300004: Bolts
+    2300006: Chrome
+    2300008: Front_wheels
+    2300010: Handle
+    2300012: Handle_base
+    2300014: Handle_bolts
+    2300016: Handle_pipe
+    2300018: Iron_nails
+    2300020: Main_wheel
+    2300022: Main_wheel_base
+    2300024: Plastic
+    2300026: Small_whell_01
+    2300028: Small_whell_02
+    2300030: Small_whell_base_01
+    2300032: Small_whell_base_02
+    2300034: Wood_Board
+    3300000: Black_metal
+    3300002: Body
+    3300004: Bolts
+    3300006: Chrome
+    3300008: Front_wheels
+    3300010: Handle
+    3300012: Handle_base
+    3300014: Handle_bolts
+    3300016: Handle_pipe
+    3300018: Iron_nails
+    3300020: Main_wheel
+    3300022: Main_wheel_base
+    3300024: Plastic
+    3300026: Small_whell_01
+    3300028: Small_whell_02
+    3300030: Small_whell_base_01
+    3300032: Small_whell_base_02
+    3300034: Wood_Board
+    4300000: Handle_bolts
+    4300002: Handle
+    4300004: Handle_pipe
+    4300006: Handle_base
+    4300008: Main_wheel_base
+    4300010: Main_wheel
+    4300012: Plastic
+    4300014: Chrome
+    4300016: Small_whell_base_02
+    4300018: Small_whell_base_01
+    4300020: Black_metal
+    4300022: Small_whell_02
+    4300024: Small_whell_01
+    4300026: Front_wheels
+    4300028: Bolts
+    4300030: Body
+    4300032: Wood_Board
+    4300034: Iron_nails
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

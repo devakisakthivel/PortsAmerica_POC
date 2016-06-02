@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 05de00ef5c42c644e9afdfea55e26481
+timeCreated: 1464273306
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottom teeth
+    100002: Eyewear:DummyMAIN
+    100004: Eyewear:Goggles
+    100006: Eyewear:String
+    100008: face1
+    100010: facemask:clear visor
+    100012: facemask:Dummy rotation
+    100014: facemask:DummyMAIN
+    100016: facemask:main
+    100018: facemask:visor plate
+    100020: Gask Mask:Base
+    100022: Gask Mask:Dummy MAIN
+    100024: Glove:L
+    100026: Glove:R
+    100028: Hardhat
+    100030: Hardhat:DummyMAIN
+    100032: Harness:Base
+    100034: Harness:DummyMAIN
+    100036: Harness:Ring Connection
+    100038: Headset:Dummy MAIN
+    100040: Headset:Dummy Rotation
+    100042: Headset:Ear Protection
+    100044: Headset:Main
+    100046: L Eye
+    100048: L_arm
+    100050: Lboot
+    100052: LeftAnkleEffectorAux1
+    100054: LeftFootEffectorAux1
+    100056: pants
+    100058: R Eye
+    100060: R_arm
+    100062: Rboot
+    100064: RightAnkleEffectorAux1
+    100066: RightFootEffectorAux1
+    100068: rolled up sleeve shirt
+    100070: tongue001
+    100072: top teeth
+    100074: TT Character 3_Ctrl:ChestEndEffector
+    100076: TT Character 3_Ctrl:ChestOriginEffector
+    100078: TT Character 3_Ctrl:Head
+    100080: TT Character 3_Ctrl:HeadEffector
+    100082: TT Character 3_Ctrl:Hips
+    100084: TT Character 3_Ctrl:HipsEffector
+    100086: TT Character 3_Ctrl:LeftAnkleEffector
+    100088: TT Character 3_Ctrl:LeftArm
+    100090: TT Character 3_Ctrl:LeftElbowEffector
+    100092: TT Character 3_Ctrl:LeftFoot
+    100094: TT Character 3_Ctrl:LeftFootEffector
+    100096: TT Character 3_Ctrl:LeftForeArm
+    100098: TT Character 3_Ctrl:LeftHand
+    100100: TT Character 3_Ctrl:LeftHandIndex1
+    100102: TT Character 3_Ctrl:LeftHandIndex2
+    100104: TT Character 3_Ctrl:LeftHandIndex3
+    100106: TT Character 3_Ctrl:LeftHandIndexEffector
+    100108: TT Character 3_Ctrl:LeftHandMiddle1
+    100110: TT Character 3_Ctrl:LeftHandMiddle2
+    100112: TT Character 3_Ctrl:LeftHandMiddle3
+    100114: TT Character 3_Ctrl:LeftHandMiddleEffector
+    100116: TT Character 3_Ctrl:LeftHandPinky1
+    100118: TT Character 3_Ctrl:LeftHandPinky2
+    100120: TT Character 3_Ctrl:LeftHandPinky3
+    100122: TT Character 3_Ctrl:LeftHandPinkyEffector
+    100124: TT Character 3_Ctrl:LeftHandRing1
+    100126: TT Character 3_Ctrl:LeftHandRing2
+    100128: TT Character 3_Ctrl:LeftHandRing3
+    100130: TT Character 3_Ctrl:LeftHandRingEffector
+    100132: TT Character 3_Ctrl:LeftHandThumb1
+    100134: TT Character 3_Ctrl:LeftHandThumb2
+    100136: TT Character 3_Ctrl:LeftHandThumb3
+    100138: TT Character 3_Ctrl:LeftHandThumbEffector
+    100140: TT Character 3_Ctrl:LeftHipEffector
+    100142: TT Character 3_Ctrl:LeftKneeEffector
+    100144: TT Character 3_Ctrl:LeftLeg
+    100146: TT Character 3_Ctrl:LeftShoulder
+    100148: TT Character 3_Ctrl:LeftShoulderEffector
+    100150: TT Character 3_Ctrl:LeftToeBase
+    100152: TT Character 3_Ctrl:LeftUpLeg
+    100154: TT Character 3_Ctrl:LeftWristEffector
+    100156: TT Character 3_Ctrl:Neck
+    100158: TT Character 3_Ctrl:Neck1
+    100160: TT Character 3_Ctrl:Reference
+    100162: TT Character 3_Ctrl:RightAnkleEffector
+    100164: TT Character 3_Ctrl:RightArm
+    100166: TT Character 3_Ctrl:RightElbowEffector
+    100168: TT Character 3_Ctrl:RightFoot
+    100170: TT Character 3_Ctrl:RightFootEffector
+    100172: TT Character 3_Ctrl:RightForeArm
+    100174: TT Character 3_Ctrl:RightHand
+    100176: TT Character 3_Ctrl:RightHandIndex1
+    100178: TT Character 3_Ctrl:RightHandIndex2
+    100180: TT Character 3_Ctrl:RightHandIndex3
+    100182: TT Character 3_Ctrl:RightHandIndexEffector
+    100184: TT Character 3_Ctrl:RightHandMiddle1
+    100186: TT Character 3_Ctrl:RightHandMiddle2
+    100188: TT Character 3_Ctrl:RightHandMiddle3
+    100190: TT Character 3_Ctrl:RightHandMiddleEffector
+    100192: TT Character 3_Ctrl:RightHandPinky1
+    100194: TT Character 3_Ctrl:RightHandPinky2
+    100196: TT Character 3_Ctrl:RightHandPinky3
+    100198: TT Character 3_Ctrl:RightHandPinkyEffector
+    100200: TT Character 3_Ctrl:RightHandRing1
+    100202: TT Character 3_Ctrl:RightHandRing2
+    100204: TT Character 3_Ctrl:RightHandRing3
+    100206: TT Character 3_Ctrl:RightHandRingEffector
+    100208: TT Character 3_Ctrl:RightHandThumb1
+    100210: TT Character 3_Ctrl:RightHandThumb2
+    100212: TT Character 3_Ctrl:RightHandThumb3
+    100214: TT Character 3_Ctrl:RightHandThumbEffector
+    100216: TT Character 3_Ctrl:RightHipEffector
+    100218: TT Character 3_Ctrl:RightKneeEffector
+    100220: TT Character 3_Ctrl:RightLeg
+    100222: TT Character 3_Ctrl:RightShoulder
+    100224: TT Character 3_Ctrl:RightShoulderEffector
+    100226: TT Character 3_Ctrl:RightToeBase
+    100228: TT Character 3_Ctrl:RightUpLeg
+    100230: TT Character 3_Ctrl:RightWristEffector
+    100232: TT Character 3_Ctrl:Spine
+    100234: TT Character 3_Ctrl:Spine1
+    100236: TT Character 3_Ctrl:Spine2
+    100238: TT Character 3_Ctrl:Spine3
+    100240: TT Character 3_Ctrl:Spine4
+    100242: //RootNode
+    100244: 'TTChar:'
+    100246: TTChar:Head
+    100248: TTChar:HeadJaw001
+    100250: TTChar:LCalf
+    100252: TTChar:LCollarbone
+    100254: TTChar:LDigit11
+    100256: TTChar:LDigit12
+    100258: TTChar:LDigit13
+    100260: TTChar:LDigit21
+    100262: TTChar:LDigit22
+    100264: TTChar:LDigit23
+    100266: TTChar:LDigit31
+    100268: TTChar:LDigit32
+    100270: TTChar:LDigit33
+    100272: TTChar:LDigit41
+    100274: TTChar:LDigit42
+    100276: TTChar:LDigit43
+    100278: TTChar:LDigit51
+    100280: TTChar:LDigit52
+    100282: TTChar:LDigit53
+    100284: TTChar:LFoot
+    100286: TTChar:LFootBone
+    100288: TTChar:LForearm1
+    100290: TTChar:LForearm2
+    100292: TTChar:LForearm3
+    100294: TTChar:LPalm
+    100296: TTChar:LPlatform
+    100298: TTChar:LThigh
+    100300: TTChar:LUpperarm
+    100302: TTChar:Neck1
+    100304: TTChar:Neck2
+    100306: TTChar:Pelvis
+    100308: TTChar:RCalf
+    100310: TTChar:RCollarbone
+    100312: TTChar:RDigit11
+    100314: TTChar:RDigit12
+    100316: TTChar:RDigit13
+    100318: TTChar:RDigit21
+    100320: TTChar:RDigit22
+    100322: TTChar:RDigit23
+    100324: TTChar:RDigit31
+    100326: TTChar:RDigit32
+    100328: TTChar:RDigit33
+    100330: TTChar:RDigit41
+    100332: TTChar:RDigit42
+    100334: TTChar:RDigit43
+    100336: TTChar:RDigit51
+    100338: TTChar:RDigit52
+    100340: TTChar:RDigit53
+    100342: TTChar:RFoot
+    100344: TTChar:RFootBone
+    100346: TTChar:RForearm1
+    100348: TTChar:RForearm2
+    100350: TTChar:RForearm3
+    100352: TTChar:Ribcage
+    100354: TTChar:RPalm
+    100356: TTChar:RPlatform
+    100358: TTChar:RThigh
+    100360: TTChar:RUpperarm
+    100362: TTChar:Spine1
+    100364: TTChar:Spine2
+    100366: TTChar:Spine3
+    100368: TTChar:Spine4
+    100370: welding torch
+    100372: WeldingShield:Base
+    100374: WeldingShield:Dummy MAIN
+    100376: WeldingShield:Dummy Rotation
+    100378: WeldingShield:Visor
+    400000: bottom teeth
+    400002: Eyewear:DummyMAIN
+    400004: Eyewear:Goggles
+    400006: Eyewear:String
+    400008: face1
+    400010: facemask:clear visor
+    400012: facemask:Dummy rotation
+    400014: facemask:DummyMAIN
+    400016: facemask:main
+    400018: facemask:visor plate
+    400020: Gask Mask:Base
+    400022: Gask Mask:Dummy MAIN
+    400024: Glove:L
+    400026: Glove:R
+    400028: Hardhat
+    400030: Hardhat:DummyMAIN
+    400032: Harness:Base
+    400034: Harness:DummyMAIN
+    400036: Harness:Ring Connection
+    400038: Headset:Dummy MAIN
+    400040: Headset:Dummy Rotation
+    400042: Headset:Ear Protection
+    400044: Headset:Main
+    400046: L Eye
+    400048: L_arm
+    400050: Lboot
+    400052: LeftAnkleEffectorAux1
+    400054: LeftFootEffectorAux1
+    400056: pants
+    400058: R Eye
+    400060: R_arm
+    400062: Rboot
+    400064: RightAnkleEffectorAux1
+    400066: RightFootEffectorAux1
+    400068: rolled up sleeve shirt
+    400070: tongue001
+    400072: top teeth
+    400074: TT Character 3_Ctrl:ChestEndEffector
+    400076: TT Character 3_Ctrl:ChestOriginEffector
+    400078: TT Character 3_Ctrl:Head
+    400080: TT Character 3_Ctrl:HeadEffector
+    400082: TT Character 3_Ctrl:Hips
+    400084: TT Character 3_Ctrl:HipsEffector
+    400086: TT Character 3_Ctrl:LeftAnkleEffector
+    400088: TT Character 3_Ctrl:LeftArm
+    400090: TT Character 3_Ctrl:LeftElbowEffector
+    400092: TT Character 3_Ctrl:LeftFoot
+    400094: TT Character 3_Ctrl:LeftFootEffector
+    400096: TT Character 3_Ctrl:LeftForeArm
+    400098: TT Character 3_Ctrl:LeftHand
+    400100: TT Character 3_Ctrl:LeftHandIndex1
+    400102: TT Character 3_Ctrl:LeftHandIndex2
+    400104: TT Character 3_Ctrl:LeftHandIndex3
+    400106: TT Character 3_Ctrl:LeftHandIndexEffector
+    400108: TT Character 3_Ctrl:LeftHandMiddle1
+    400110: TT Character 3_Ctrl:LeftHandMiddle2
+    400112: TT Character 3_Ctrl:LeftHandMiddle3
+    400114: TT Character 3_Ctrl:LeftHandMiddleEffector
+    400116: TT Character 3_Ctrl:LeftHandPinky1
+    400118: TT Character 3_Ctrl:LeftHandPinky2
+    400120: TT Character 3_Ctrl:LeftHandPinky3
+    400122: TT Character 3_Ctrl:LeftHandPinkyEffector
+    400124: TT Character 3_Ctrl:LeftHandRing1
+    400126: TT Character 3_Ctrl:LeftHandRing2
+    400128: TT Character 3_Ctrl:LeftHandRing3
+    400130: TT Character 3_Ctrl:LeftHandRingEffector
+    400132: TT Character 3_Ctrl:LeftHandThumb1
+    400134: TT Character 3_Ctrl:LeftHandThumb2
+    400136: TT Character 3_Ctrl:LeftHandThumb3
+    400138: TT Character 3_Ctrl:LeftHandThumbEffector
+    400140: TT Character 3_Ctrl:LeftHipEffector
+    400142: TT Character 3_Ctrl:LeftKneeEffector
+    400144: TT Character 3_Ctrl:LeftLeg
+    400146: TT Character 3_Ctrl:LeftShoulder
+    400148: TT Character 3_Ctrl:LeftShoulderEffector
+    400150: TT Character 3_Ctrl:LeftToeBase
+    400152: TT Character 3_Ctrl:LeftUpLeg
+    400154: TT Character 3_Ctrl:LeftWristEffector
+    400156: TT Character 3_Ctrl:Neck
+    400158: TT Character 3_Ctrl:Neck1
+    400160: TT Character 3_Ctrl:Reference
+    400162: TT Character 3_Ctrl:RightAnkleEffector
+    400164: TT Character 3_Ctrl:RightArm
+    400166: TT Character 3_Ctrl:RightElbowEffector
+    400168: TT Character 3_Ctrl:RightFoot
+    400170: TT Character 3_Ctrl:RightFootEffector
+    400172: TT Character 3_Ctrl:RightForeArm
+    400174: TT Character 3_Ctrl:RightHand
+    400176: TT Character 3_Ctrl:RightHandIndex1
+    400178: TT Character 3_Ctrl:RightHandIndex2
+    400180: TT Character 3_Ctrl:RightHandIndex3
+    400182: TT Character 3_Ctrl:RightHandIndexEffector
+    400184: TT Character 3_Ctrl:RightHandMiddle1
+    400186: TT Character 3_Ctrl:RightHandMiddle2
+    400188: TT Character 3_Ctrl:RightHandMiddle3
+    400190: TT Character 3_Ctrl:RightHandMiddleEffector
+    400192: TT Character 3_Ctrl:RightHandPinky1
+    400194: TT Character 3_Ctrl:RightHandPinky2
+    400196: TT Character 3_Ctrl:RightHandPinky3
+    400198: TT Character 3_Ctrl:RightHandPinkyEffector
+    400200: TT Character 3_Ctrl:RightHandRing1
+    400202: TT Character 3_Ctrl:RightHandRing2
+    400204: TT Character 3_Ctrl:RightHandRing3
+    400206: TT Character 3_Ctrl:RightHandRingEffector
+    400208: TT Character 3_Ctrl:RightHandThumb1
+    400210: TT Character 3_Ctrl:RightHandThumb2
+    400212: TT Character 3_Ctrl:RightHandThumb3
+    400214: TT Character 3_Ctrl:RightHandThumbEffector
+    400216: TT Character 3_Ctrl:RightHipEffector
+    400218: TT Character 3_Ctrl:RightKneeEffector
+    400220: TT Character 3_Ctrl:RightLeg
+    400222: TT Character 3_Ctrl:RightShoulder
+    400224: TT Character 3_Ctrl:RightShoulderEffector
+    400226: TT Character 3_Ctrl:RightToeBase
+    400228: TT Character 3_Ctrl:RightUpLeg
+    400230: TT Character 3_Ctrl:RightWristEffector
+    400232: TT Character 3_Ctrl:Spine
+    400234: TT Character 3_Ctrl:Spine1
+    400236: TT Character 3_Ctrl:Spine2
+    400238: TT Character 3_Ctrl:Spine3
+    400240: TT Character 3_Ctrl:Spine4
+    400242: //RootNode
+    400244: 'TTChar:'
+    400246: TTChar:Head
+    400248: TTChar:HeadJaw001
+    400250: TTChar:LCalf
+    400252: TTChar:LCollarbone
+    400254: TTChar:LDigit11
+    400256: TTChar:LDigit12
+    400258: TTChar:LDigit13
+    400260: TTChar:LDigit21
+    400262: TTChar:LDigit22
+    400264: TTChar:LDigit23
+    400266: TTChar:LDigit31
+    400268: TTChar:LDigit32
+    400270: TTChar:LDigit33
+    400272: TTChar:LDigit41
+    400274: TTChar:LDigit42
+    400276: TTChar:LDigit43
+    400278: TTChar:LDigit51
+    400280: TTChar:LDigit52
+    400282: TTChar:LDigit53
+    400284: TTChar:LFoot
+    400286: TTChar:LFootBone
+    400288: TTChar:LForearm1
+    400290: TTChar:LForearm2
+    400292: TTChar:LForearm3
+    400294: TTChar:LPalm
+    400296: TTChar:LPlatform
+    400298: TTChar:LThigh
+    400300: TTChar:LUpperarm
+    400302: TTChar:Neck1
+    400304: TTChar:Neck2
+    400306: TTChar:Pelvis
+    400308: TTChar:RCalf
+    400310: TTChar:RCollarbone
+    400312: TTChar:RDigit11
+    400314: TTChar:RDigit12
+    400316: TTChar:RDigit13
+    400318: TTChar:RDigit21
+    400320: TTChar:RDigit22
+    400322: TTChar:RDigit23
+    400324: TTChar:RDigit31
+    400326: TTChar:RDigit32
+    400328: TTChar:RDigit33
+    400330: TTChar:RDigit41
+    400332: TTChar:RDigit42
+    400334: TTChar:RDigit43
+    400336: TTChar:RDigit51
+    400338: TTChar:RDigit52
+    400340: TTChar:RDigit53
+    400342: TTChar:RFoot
+    400344: TTChar:RFootBone
+    400346: TTChar:RForearm1
+    400348: TTChar:RForearm2
+    400350: TTChar:RForearm3
+    400352: TTChar:Ribcage
+    400354: TTChar:RPalm
+    400356: TTChar:RPlatform
+    400358: TTChar:RThigh
+    400360: TTChar:RUpperarm
+    400362: TTChar:Spine1
+    400364: TTChar:Spine2
+    400366: TTChar:Spine3
+    400368: TTChar:Spine4
+    400370: welding torch
+    400372: WeldingShield:Base
+    400374: WeldingShield:Dummy MAIN
+    400376: WeldingShield:Dummy Rotation
+    400378: WeldingShield:Visor
+    2300000: bottom teeth
+    2300002: Eyewear:Goggles
+    2300004: Eyewear:String
+    2300006: facemask:clear visor
+    2300008: facemask:main
+    2300010: facemask:visor plate
+    2300012: Gask Mask:Base
+    2300014: Hardhat
+    2300016: Harness:Ring Connection
+    2300018: Headset:Ear Protection
+    2300020: Headset:Main
+    2300022: L Eye
+    2300024: R Eye
+    2300026: tongue001
+    2300028: top teeth
+    2300030: welding torch
+    2300032: WeldingShield:Base
+    2300034: WeldingShield:Visor
+    3300000: bottom teeth
+    3300002: Eyewear:Goggles
+    3300004: Eyewear:String
+    3300006: facemask:clear visor
+    3300008: facemask:main
+    3300010: facemask:visor plate
+    3300012: Gask Mask:Base
+    3300014: Hardhat
+    3300016: Harness:Ring Connection
+    3300018: Headset:Ear Protection
+    3300020: Headset:Main
+    3300022: L Eye
+    3300024: R Eye
+    3300026: tongue001
+    3300028: top teeth
+    3300030: welding torch
+    3300032: WeldingShield:Base
+    3300034: WeldingShield:Visor
+    4300000: rolled up sleeve shirt
+    4300002: pants
+    4300004: welding torch
+    4300006: bottom teeth
+    4300008: tongue001
+    4300010: Hardhat
+    4300012: Gask Mask:Base
+    4300014: Headset:Main
+    4300016: Headset:Ear Protection
+    4300018: WeldingShield:Visor
+    4300020: WeldingShield:Base
+    4300022: Eyewear:Goggles
+    4300024: Eyewear:String
+    4300026: facemask:visor plate
+    4300028: facemask:clear visor
+    4300030: facemask:main
+    4300032: top teeth
+    4300034: L Eye
+    4300036: R Eye
+    4300038: Harness:Ring Connection
+    4300040: face1
+    4300042: Rboot
+    4300044: Glove:R
+    4300046: Harness:Base
+    4300048: R_arm
+    4300050: L_arm
+    4300052: Lboot
+    4300054: Glove:L
+    7400000: WeldingLevel-001
+    9500000: //RootNode
+    13700000: face1
+    13700002: Glove:L
+    13700004: Glove:R
+    13700006: Harness:Base
+    13700008: L_arm
+    13700010: Lboot
+    13700012: pants
+    13700014: R_arm
+    13700016: Rboot
+    13700018: rolled up sleeve shirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: TTChar:Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:Neck1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LForearm1
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RForearm1
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LForearm3
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RForearm3
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LFootBone
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RFootBone
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L Eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R Eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:HeadJaw001
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit21
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit22
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit23
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit11
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit12
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit13
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit41
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit42
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit43
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit51
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit52
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:LDigit53
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit21
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit22
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit23
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit11
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit12
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit13
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit31
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit32
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit33
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit41
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit42
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit43
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit51
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit52
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TTChar:RDigit53
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: TT_Character@WeldingLevel-001(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: face1
+      position: {x: 0.0000015999514, y: 1.5112207, z: -0.014358789}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.0978473, y: 1.0978473, z: 1.0978473}
+      transformModified: 1
+    - name: Glove:L
+      position: {x: -0.7604224, y: 0, z: -0.09744066}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    - name: Glove:R
+      position: {x: 0.6339255, y: 1.3083761, z: 0.025382135}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    - name: Harness:Base
+      position: {x: 0, y: 1.086369, z: -0.025394041}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    - name: L_arm
+      position: {x: -0.56352115, y: 1.3128773, z: 0.017135212}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    - name: Lboot
+      position: {x: -0.7604224, y: 0, z: -0.09744066}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    - name: pants
+      position: {x: 0, y: 0.94697434, z: -0.0015052255}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.1284294, y: 0.852217, z: 0.45193818}
+      transformModified: 1
+    - name: R_arm
+      position: {x: 0.5635214, y: 1.3128777, z: 0.017135182}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    - name: Rboot
+      position: {x: 0.10589896, y: 0, z: 0.006394795}
+      rotation: {x: -0.70642644, y: 0.031011807, z: 0.031011807, w: 0.70642644}
+      scale: {x: 1.8871808, y: 2.1840606, z: 2.54}
+      transformModified: 1
+    - name: rolled up sleeve shirt
+      position: {x: 0, y: 1.1865515, z: -0.02944664}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.0684481, y: 1.0684481, z: 1.0684481}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Reference
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 4.014825e-24, y: 0, z: 1.3382751e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LeftAnkleEffectorAux1
+      position: {x: 0.02440171, y: 0.09278362, z: -0.5326189}
+      rotation: {x: 0.038721643, y: -0.7971783, z: -0.03333976, w: 0.6015778}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LeftFootEffectorAux1
+      position: {x: -0.09930823, y: 0.061594352, z: -0.57135797}
+      rotation: {x: 0.03966692, y: -0.7973005, z: -0.032075614, w: 0.6014231}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RightAnkleEffectorAux1
+      position: {x: 0.033767324, y: 0.100489326, z: -0.1257145}
+      rotation: {x: 0.0045883874, y: -0.6769479, z: 0.023529723, w: 0.7356405}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RightFootEffectorAux1
+      position: {x: -0.09374503, y: 0.063317366, z: -0.114029214}
+      rotation: {x: 0.003881034, y: -0.67716235, z: 0.022591414, w: 0.7354766}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:ChestEndEffector
+      position: {x: -0.05360361, y: 1.3478824, z: -0.33439898}
+      rotation: {x: 0.027019216, y: -0.7236958, z: 0.013084054, w: 0.6894659}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:ChestOriginEffector
+      position: {x: -0.013006896, y: 0.9262277, z: -0.33065104}
+      rotation: {x: -0.037231967, y: -0.7164057, z: -0.025855783, w: 0.69620985}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:HeadEffector
+      position: {x: -0.014245285, y: 1.5285702, z: -0.3328629}
+      rotation: {x: 0.03227481, y: -0.75360084, z: 0.07362886, w: 0.6523978}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Hips
+      position: {x: -0.020871218, y: 0.88479763, z: -0.32994515}
+      rotation: {x: -0.0451862, y: -0.715144, z: -0.030782072, w: 0.6968355}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftUpLeg
+      position: {x: -0.08093498, y: 0.015990907, z: 0.04313826}
+      rotation: {x: 0.044765577, y: -0.023071803, z: -0.07153285, w: 0.99616605}
+      scale: {x: 0.99999964, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftLeg
+      position: {x: -0.014452991, y: -0.40127218, z: -0.019120708}
+      rotation: {x: 0.021675877, y: -0.04860119, z: -0.007324019, w: 0.9985562}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000006}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftFoot
+      position: {x: -0.015566886, y: -0.42003727, z: -0.052185576}
+      rotation: {x: -0.0029543238, y: -0.04967543, z: 0.015328945, w: 0.9986434}
+      scale: {x: 0.9999992, y: 0.9999986, z: 0.99999917}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftToeBase
+      position: {x: -0.00008062097, y: -0.032215673, z: 0.12938233}
+      rotation: {x: 0.0015865408, y: -0.000116413015, z: 0.0000065286863, w: 0.99999875}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000006}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightUpLeg
+      position: {x: 0.08093498, y: 0.015990904, z: 0.04313825}
+      rotation: {x: 0.03997498, y: 0.045469657, z: 0.058945976, w: 0.99642354}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000004}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightLeg
+      position: {x: 0.014470212, y: -0.40127128, z: -0.019127108}
+      rotation: {x: 0.052744012, y: 0.049635712, z: 0.0011931101, w: 0.99737304}
+      scale: {x: 0.99999946, y: 0.9999998, z: 0.9999997}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightFoot
+      position: {x: 0.015549763, y: -0.42003945, z: -0.052182037}
+      rotation: {x: -0.013185313, y: -0.048533227, z: -0.05173122, w: 0.9973939}
+      scale: {x: 0.99999964, y: 0.9999994, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightToeBase
+      position: {x: 0.000080670805, y: -0.032215383, z: 0.12938243}
+      rotation: {x: -0.0011598279, y: -0.00025639049, z: -0.00020762009, w: 0.9999993}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Spine
+      position: {x: 0.0000000044060733, y: 0.042041387, z: -0.003364191}
+      rotation: {x: 0.009076265, y: -0.0013043467, z: -0.0023319856, w: 0.99995524}
+      scale: {x: 0.99999964, y: 1, z: 0.99999976}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Spine1
+      position: {x: 0.000000015339047, y: 0.10997818, z: 0.026949164}
+      rotation: {x: 0.018154342, y: -0.0025448394, z: -0.0048695887, w: 0.9998201}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000007}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Spine2
+      position: {x: 0.000000015224263, y: 0.09540832, z: -0.01419455}
+      rotation: {x: 0.01815603, y: -0.0024661405, z: -0.0048139114, w: 0.99982053}
+      scale: {x: 0.9999997, y: 0.9999996, z: 0.99999964}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Spine3
+      position: {x: -0.0000000081641724, y: 0.098011196, z: -0.033742007}
+      rotation: {x: 0.018157816, y: -0.002397073, z: -0.0049160924, w: 0.9998202}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Spine4
+      position: {x: 7.804544e-10, y: 0.1386464, z: -0.01697035}
+      rotation: {x: 0.018158915, y: -0.0023199455, z: -0.004937392, w: 0.99982023}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftShoulder
+      position: {x: -0.035835274, y: -0.015971161, z: 0.09339326}
+      rotation: {x: -0.014171652, y: 0.044667125, z: 0.0929732, w: 0.99456525}
+      scale: {x: 0.9999995, y: 0.99999946, z: 0.99999934}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftArm
+      position: {x: -0.14115946, y: 0.009465453, z: -0.054524556}
+      rotation: {x: -0.03408828, y: -0.011428678, z: 0.5361569, w: 0.8433523}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftForeArm
+      position: {x: -0.24806434, y: -0.03348337, z: -0.0026017933}
+      rotation: {x: 0.28630966, y: 0.11469809, z: -0.05087072, w: 0.94988596}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000005}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHand
+      position: {x: -0.23478515, y: -0.0017559652, z: 0.06871434}
+      rotation: {x: -0.1473417, y: 0.060454115, z: 0.11728792, w: 0.9802445}
+      scale: {x: 0.99999946, y: 0.99999964, z: 0.99999887}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandIndex1
+      position: {x: -0.077219166, y: 0.025332497, z: 0.043800734}
+      rotation: {x: 0.1582887, y: 0.018993165, z: 0.49673665, w: 0.85313344}
+      scale: {x: 1.0000017, y: 0.9999995, z: 1.0000007}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandIndex2
+      position: {x: -0.020104693, y: -0.002412992, z: 0.00649935}
+      rotation: {x: 0.1589334, y: 0.011794533, z: 0.49735337, w: 0.8527841}
+      scale: {x: 0.9999984, y: 1.0000007, z: 0.99999917}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandIndex3
+      position: {x: -0.021893317, y: -0.0016240499, z: 0.007034838}
+      rotation: {x: 0.19325511, y: 0.014329172, z: 0.6047575, w: 0.77247363}
+      scale: {x: 1.0000012, y: 1, z: 1.0000005}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandMiddle1
+      position: {x: -0.07950021, y: 0.026771337, z: 0.025300257}
+      rotation: {x: 0.11952392, y: 0.020197785, z: 0.4762803, w: 0.8708979}
+      scale: {x: 1.0000015, y: 0.9999994, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandMiddle2
+      position: {x: -0.027747836, y: -0.0046897656, z: 0.0071625547}
+      rotation: {x: 0.16852799, y: 0.009829393, z: 0.6589261, w: 0.7330198}
+      scale: {x: 0.9999988, y: 1.0000014, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandMiddle3
+      position: {x: -0.024960263, y: -0.0014547795, z: 0.0064054565}
+      rotation: {x: 0.17083988, y: 0.009958031, z: 0.667983, w: 0.7242329}
+      scale: {x: 1.000001, y: 0.99999845, z: 0.99999964}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandPinky1
+      position: {x: -0.087941825, y: 0.024370775, z: -0.010753148}
+      rotation: {x: 0.16707797, y: 0.011855473, z: 0.66386694, w: 0.7288519}
+      scale: {x: 1.0000012, y: 0.9999995, z: 0.9999996}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandPinky2
+      position: {x: -0.018333007, y: -0.0013008559, z: 0.004637287}
+      rotation: {x: 0.12582737, y: 0.010563661, z: 0.5528643, w: 0.8236486}
+      scale: {x: 0.9999995, y: 1.0000015, z: 1.000001}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandPinky3
+      position: {x: -0.018764138, y: -0.0015752672, z: 0.0043007294}
+      rotation: {x: 0.10776427, y: 0.009045628, z: 0.47348797, w: 0.87413627}
+      scale: {x: 1.0000005, y: 0.9999987, z: 0.99999934}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandRing1
+      position: {x: -0.0842459, y: 0.025884595, z: 0.006382461}
+      rotation: {x: 0.13906412, y: 0.020477282, z: 0.57241106, w: 0.8078289}
+      scale: {x: 1.000001, y: 0.999999, z: 0.9999992}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandRing2
+      position: {x: -0.024188224, y: -0.0035619058, z: 0.0060040103}
+      rotation: {x: 0.1282358, y: 0.0052605397, z: 0.5328265, w: 0.8364352}
+      scale: {x: 0.9999994, y: 1.0000015, z: 1.0000011}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandRing3
+      position: {x: -0.022943355, y: -0.00094082346, z: 0.0055308673}
+      rotation: {x: 0.15070532, y: 0.0061824904, z: 0.62621516, w: 0.76492107}
+      scale: {x: 1.0000001, y: 0.99999815, z: 0.9999987}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandThumb1
+      position: {x: -0.02062882, y: -0.00043215402, z: 0.0338874}
+      rotation: {x: 0.08095491, y: -0.00000014390773, z: 0.053842224, w: 0.99526244}
+      scale: {x: 0.9999986, y: 1.0000007, z: 1.0000007}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandThumb2
+      position: {x: -0.016304567, y: -0.0033490306, z: 0.024512557}
+      rotation: {x: 0.023452438, y: -0.24306035, z: -0.011567608, w: 0.9696586}
+      scale: {x: 1.0000019, y: 0.99999833, z: 1.0000005}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandThumb3
+      position: {x: -0.017590497, y: -0.002110051, z: 0.008675042}
+      rotation: {x: 0.019632693, y: -0.20347351, z: -0.009684223, w: 0.9788357}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Neck
+      position: {x: 0.000000006847153, y: 0.000730698, z: 0.007190311}
+      rotation: {x: 0.044677176, y: -0.0067701857, z: 0.0072291926, w: 0.9989524}
+      scale: {x: 0.99999917, y: 0.9999992, z: 0.9999995}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Neck1
+      position: {x: 0.000000004475584, y: 0.079344936, z: 0.006297159}
+      rotation: {x: 0.04467448, y: -0.006770184, z: 0.0072296476, w: 0.9989525}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:Head
+      position: {x: 0.0000000031920382, y: 0.08586185, z: 0.008284023}
+      rotation: {x: -0.041275445, y: -0.029391455, z: 0.028113162, w: 0.9983197}
+      scale: {x: 0.9999995, y: 0.9999997, z: 0.99999976}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightShoulder
+      position: {x: 0.035835307, y: -0.015971256, z: 0.093393244}
+      rotation: {x: 0.009123359, y: -0.008679884, z: -0.085445575, w: 0.99626327}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.99999964}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightArm
+      position: {x: 0.14115952, y: 0.009465282, z: -0.05452437}
+      rotation: {x: -0.07749366, y: 0.0028938747, z: -0.5281779, w: 0.8455853}
+      scale: {x: 1.0000004, y: 0.9999997, z: 1.0000001}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightForeArm
+      position: {x: 0.24806465, y: -0.033482756, z: -0.0026014724}
+      rotation: {x: 0.26098245, y: -0.07573202, z: -0.016103193, w: 0.9622336}
+      scale: {x: 0.99999917, y: 0.99999934, z: 0.9999991}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHand
+      position: {x: 0.23478618, y: -0.0017615522, z: 0.06871452}
+      rotation: {x: -0.15431939, y: 0.037972093, z: -0.14304547, w: 0.9768734}
+      scale: {x: 0.99999917, y: 1, z: 1.000002}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandIndex1
+      position: {x: 0.0772195, y: 0.025329296, z: 0.043800786}
+      rotation: {x: 0.008326755, y: -0.000999821, z: -0.026125573, w: 0.99962354}
+      scale: {x: 1.0000002, y: 0.9999989, z: 1.0000005}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandIndex2
+      position: {x: 0.020104583, y: -0.0024137648, z: 0.006499549}
+      rotation: {x: 0.059923146, y: -0.004447761, z: -0.18750882, w: 0.98042333}
+      scale: {x: 1.0000012, y: 0.9999992, z: 1.0000002}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandIndex3
+      position: {x: 0.021893188, y: -0.0016250435, z: 0.0070351884}
+      rotation: {x: 0.066415824, y: -0.004930499, z: -0.20782746, w: 0.9758957}
+      scale: {x: 1, y: 0.9999995, z: 0.99999994}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandMiddle1
+      position: {x: 0.07950058, y: 0.026768211, z: 0.02530029}
+      rotation: {x: 0.022794245, y: -0.0038538708, z: -0.09082423, w: 0.9955986}
+      scale: {x: 1.0000004, y: 0.99999887, z: 1.0000011}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandMiddle2
+      position: {x: 0.027747564, y: -0.004690992, z: 0.007162898}
+      rotation: {x: 0.05124342, y: -0.0029892803, z: -0.20034778, w: 0.97837925}
+      scale: {x: 1.0000012, y: 0.99999964, z: 1.0000005}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandMiddle3
+      position: {x: 0.024959957, y: -0.0014558017, z: 0.006405906}
+      rotation: {x: 0.05238508, y: -0.0030556968, z: -0.20481084, w: 0.977394}
+      scale: {x: 1.0000001, y: 0.9999992, z: 0.99999994}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandPinky1
+      position: {x: 0.08794228, y: 0.024367454, z: -0.010753003}
+      rotation: {x: 0.031258397, y: -0.0022191633, z: -0.12419562, w: 0.9917628}
+      scale: {x: 1.0000004, y: 0.99999845, z: 1.0000013}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandPinky2
+      position: {x: 0.018332852, y: -0.0013016715, z: 0.0046373396}
+      rotation: {x: 0.040814627, y: -0.0034288717, z: -0.17932458, w: 0.982937}
+      scale: {x: 1.0000008, y: 0.9999992, z: 1.0000001}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandPinky3
+      position: {x: 0.018764006, y: -0.0015762562, z: 0.004300808}
+      rotation: {x: 0.036117677, y: -0.0030341872, z: -0.15869287, w: 0.9866625}
+      scale: {x: 1.0000002, y: 0.9999996, z: 0.99999994}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandRing1
+      position: {x: 0.08424624, y: 0.025881393, z: 0.006382547}
+      rotation: {x: 0.028171599, y: -0.0041496195, z: -0.11595271, w: 0.9928465}
+      scale: {x: 1.0000006, y: 0.9999988, z: 1.0000014}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandRing2
+      position: {x: 0.02418808, y: -0.0035630604, z: 0.0060041402}
+      rotation: {x: 0.04504721, y: -0.0018512072, z: -0.18718001, w: 0.98129046}
+      scale: {x: 1.0000007, y: 0.9999987, z: 1.0000002}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandRing3
+      position: {x: 0.02294319, y: -0.0009421295, z: 0.0055309907}
+      rotation: {x: 0.043001205, y: -0.0017659445, z: -0.17868109, w: 0.98296535}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999976}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandThumb1
+      position: {x: 0.020628585, y: -0.00043309905, z: 0.03388744}
+      rotation: {x: -0.0000000046504067, y: 0.000000481277, z: -0.0000027828542, w: 1}
+      scale: {x: 1.0000055, y: 0.99999714, z: 0.99999744}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandThumb2
+      position: {x: 0.016304195, y: -0.003350107, z: 0.0245129}
+      rotation: {x: 0.008523795, y: 0.08830881, z: 0.004205029, w: 0.9960478}
+      scale: {x: 0.99999523, y: 1.0000055, z: 1.0000007}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandThumb3
+      position: {x: 0.017590389, y: -0.0021109164, z: 0.008675301}
+      rotation: {x: 0.025688006, y: 0.26612157, z: 0.012667194, w: 0.9635139}
+      scale: {x: 0.9999983, y: 1.0000008, z: 0.99999946}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:HipsEffector
+      position: {x: -0.062026557, y: 0.90530884, z: -0.33141053}
+      rotation: {x: -0.04518611, y: -0.71514404, z: -0.030781979, w: 0.6968356}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftAnkleEffector
+      position: {x: 0.02440171, y: 0.09278362, z: -0.5326189}
+      rotation: {x: 0.038721643, y: -0.7971783, z: -0.03333976, w: 0.6015778}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftElbowEffector
+      position: {x: -0.0024895365, y: 1.0874053, z: -0.5467597}
+      rotation: {x: -0.2746199, y: -0.3764101, z: 0.48160088, w: 0.74226683}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftFootEffector
+      position: {x: -0.09930823, y: 0.061594352, z: -0.57135797}
+      rotation: {x: 0.03966692, y: -0.7973005, z: -0.032075614, w: 0.6014231}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandIndexEffector
+      position: {x: -0.17103034, y: 0.8146537, z: -0.5524481}
+      rotation: {x: -0.053834934, y: 0.6610724, z: 0.6012278, w: -0.445657}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandMiddleEffector
+      position: {x: -0.15273963, y: 0.81127495, z: -0.55707633}
+      rotation: {x: -0.028204488, y: -0.67579556, z: -0.43287686, w: 0.5959216}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandPinkyEffector
+      position: {x: -0.12193943, y: 0.80214155, z: -0.5818259}
+      rotation: {x: 0.066536285, y: -0.63467914, z: -0.5458551, w: 0.5429526}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandRingEffector
+      position: {x: -0.13519293, y: 0.8048998, z: -0.5637303}
+      rotation: {x: 0.033483915, y: -0.6556206, z: -0.5143309, w: 0.55181897}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHandThumbEffector
+      position: {x: -0.17937873, y: 0.8315885, z: -0.5465824}
+      rotation: {x: -0.101339474, y: -0.540458, z: 0.6739015, w: 0.49344927}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftHipEffector
+      position: {x: -0.060022864, y: 0.90355015, z: -0.41230154}
+      rotation: {x: 0.03662744, y: -0.7330897, z: -0.047454234, w: 0.6774851}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftKneeEffector
+      position: {x: -0.044068933, y: 0.50648606, z: -0.4729592}
+      rotation: {x: 0.054322515, y: -0.7657182, z: -0.03823741, w: 0.6397364}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftShoulderEffector
+      position: {x: -0.002467484, y: 1.3354341, z: -0.51291436}
+      rotation: {x: -0.43732545, y: -0.56661403, z: 0.41894343, w: 0.558732}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:LeftWristEffector
+      position: {x: -0.117512666, y: 0.8734298, z: -0.57562107}
+      rotation: {x: -0.45182455, y: -0.3628512, z: 0.48708263, w: 0.6534096}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightAnkleEffector
+      position: {x: 0.033767324, y: 0.100489326, z: -0.1257145}
+      rotation: {x: 0.004588403, y: -0.6769479, z: 0.023529753, w: 0.7356405}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightElbowEffector
+      position: {x: -0.014607082, y: 1.0850981, z: -0.12247854}
+      rotation: {x: -0.5173289, y: 0.6897296, z: 0.3269736, w: -0.3869525}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightFootEffector
+      position: {x: -0.09374503, y: 0.063317366, z: -0.114029214}
+      rotation: {x: 0.0038810433, y: -0.67716235, z: 0.022591427, w: 0.7354766}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandIndexEffector
+      position: {x: -0.1698165, y: 0.7450985, z: -0.11768999}
+      rotation: {x: 0.77453583, y: -0.31892976, z: -0.5313628, w: 0.12661669}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandMiddleEffector
+      position: {x: -0.14945377, y: 0.7360042, z: -0.12361414}
+      rotation: {x: 0.7887505, y: -0.2604376, z: -0.5499971, w: 0.086879745}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandPinkyEffector
+      position: {x: -0.11055538, y: 0.741426, z: -0.11090396}
+      rotation: {x: 0.7758145, y: -0.277604, z: -0.5537461, w: 0.12005496}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandRingEffector
+      position: {x: -0.12910253, y: 0.7364731, z: -0.11866474}
+      rotation: {x: 0.783337, y: -0.26656625, z: -0.55202043, w: 0.102952145}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHandThumbEffector
+      position: {x: -0.17390083, y: 0.80614036, z: -0.13208282}
+      rotation: {x: 0.6885479, y: -0.372144, z: -0.21168716, w: 0.5853197}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightHipEffector
+      position: {x: -0.06403025, y: 0.9070675, z: -0.25051945}
+      rotation: {x: -0.057923805, y: -0.6794684, z: 0.036936972, w: 0.7304815}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightKneeEffector
+      position: {x: -0.053823695, y: 0.510845, z: -0.18345553}
+      rotation: {x: -0.021887146, y: -0.63940823, z: 0.070674315, w: 0.76529944}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightShoulderEffector
+      position: {x: -0.009348279, y: 1.3332754, z: -0.15479498}
+      rotation: {x: 0.41045913, y: -0.5573725, z: -0.4492228, w: 0.56485224}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TT Character 3_Ctrl:RightWristEffector
+      position: {x: -0.11252577, y: 0.8611756, z: -0.1115267}
+      rotation: {x: 0.5567292, y: -0.5346252, z: -0.46155813, w: 0.43725577}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: 'TTChar:'
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    - name: TTChar:LPlatform
+      position: {x: -0.11113802, y: 0.0000000012229848, z: 0.03939739}
+      rotation: {x: 0.5, y: -0.5, z: -0.50000006, w: 0.50000006}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    - name: TTChar:RPlatform
+      position: {x: 0.11113802, y: 0.0000000012229788, z: 0.03939737}
+      rotation: {x: 0.5, y: -0.5, z: -0.50000006, w: 0.50000006}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    - name: TTChar:Pelvis
+      position: {x: 0.0010853958, y: 0.84614956, z: 0.020871218}
+      rotation: {x: 0.49912697, y: -0.50087154, z: -0.49912697, w: 0.50087154}
+      scale: {x: 2.5400002, y: 2.539999, z: 2.5399983}
+      transformModified: 1
+    - name: TTChar:Spine1
+      position: {x: -0.016556244, y: -0.0012667275, z: -0.000000003143807}
+      rotation: {x: 0.000000059604645, y: 0.000000059604645, z: 0.12159583, w: -0.9925797}
+      scale: {x: 1, y: 1.0000007, z: 0.9999999}
+      transformModified: 1
+    - name: TTChar:Spine2
+      position: {x: -0.044579465, y: 0, z: -2.2737367e-15}
+      rotation: {x: -0.000000029802322, y: -0.000000029802322, z: -0.19278502, w: -0.98124105}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000007}
+      transformModified: 1
+    - name: TTChar:Spine3
+      position: {x: -0.03797577, y: 0.0000000047683715, z: 0}
+      rotation: {x: 0.000000029802322, y: 0.000000029802322, z: 0.091803044, w: 0.99577725}
+      scale: {x: 0.99999946, y: 0.99999964, z: 0.9999994}
+      transformModified: 1
+    - name: TTChar:Spine4
+      position: {x: -0.040809706, y: 0.000000009536743, z: 0}
+      rotation: {x: 0.0012308751, y: -0.0053290892, z: -0.122729026, w: 0.99242514}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: TTChar:Ribcage
+      position: {x: -0.054992523, y: 0, z: 0}
+      rotation: {x: -0.0020934644, y: 0.005052895, z: -0.042724404, w: 0.99907196}
+      scale: {x: 0.9999991, y: 0.99999934, z: 1.0000004}
+      transformModified: 1
+    - name: Harness:DummyMAIN
+      position: {x: 0.025151214, y: -0.03560793, z: -0.00000019550323}
+      rotation: {x: 0.7071068, y: -0.7071068, z: 0.00000030824182, w: 0.00000003428731}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Harness:Ring Connection
+      position: {x: 0.007674589, y: -0.010226516, z: 0.000000038146954}
+      rotation: {x: 0.15304597, y: -0.6903455, z: 0.15304597, w: 0.6903455}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TTChar:Neck1
+      position: {x: -0.0002876663, y: 0.002830832, z: -0.0000000024307518}
+      rotation: {x: -0.0000003427267, y: -0.00000008940697, z: 0.039588824, w: -0.99921614}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: TTChar:Neck2
+      position: {x: -0.03133644, y: -0.0000000047683715, z: 2.2737367e-15}
+      rotation: {x: -0.00000008940697, y: -0.00000008940697, z: -0.00849244, w: 0.999964}
+      scale: {x: 0.9999996, y: 0.99999917, z: 0.9999992}
+      transformModified: 1
+    - name: TTChar:Head
+      position: {x: -0.0339608, y: 0.0000000047683715, z: -2.2737367e-15}
+      rotation: {x: 0.0000002682209, y: 0.000000029802322, z: -0.048073202, w: -0.99884385}
+      scale: {x: 0.99999964, y: 0.9999998, z: 1.0000001}
+      transformModified: 1
+    - name: Eyewear:DummyMAIN
+      position: {x: -0.02080162, y: 0.013343692, z: 0.000000038146972}
+      rotation: {x: 0.7071068, y: -0.7071068, z: 0.00000014189487, w: -0.00000008850979}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Eyewear:Goggles
+      position: {x: -0.04162218, y: -0.0049819946, z: -2.636625e-10}
+      rotation: {x: 0.000000021193298, y: -0.7071068, z: 0.000000021193298, w: 0.7071068}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: Eyewear:String
+      position: {x: -0.0038695347, y: 0.000243721, z: -2.636807e-10}
+      rotation: {x: 0, y: -6.425253e-17, z: -0, w: 1}
+      scale: {x: 1, y: 0.7523458, z: 1}
+      transformModified: 1
+    - name: facemask:DummyMAIN
+      position: {x: -0.037774734, y: -0.0146317575, z: -0.00000003814697}
+      rotation: {x: 0.7071068, y: -0.7071068, z: 0.00000052753717, w: -0.0000004839873}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: facemask:Dummy rotation
+      position: {x: -0.03453274, y: 0, z: -0.000000038147043}
+      rotation: {x: 4.733069e-30, y: -6.6612026e-16, z: 7.1054274e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: facemask:visor plate
+      position: {x: 0.0000043702125, y: 0.0000048446655, z: -0.025546417}
+      rotation: {x: -0.00000023841858, y: 0.000000043711317, z: 1, w: -0.00000016292067}
+      scale: {x: -0.61758894, y: -0.61758894, z: -0.63242936}
+      transformModified: 1
+    - name: facemask:clear visor
+      position: {x: -0.015572984, y: -0.025702056, z: -0.040394172}
+      rotation: {x: 0.49999997, y: -0.50000006, z: 0.49999997, w: 0.50000006}
+      scale: {x: -1.30649, y: -1.6191999, z: -1.6191998}
+      transformModified: 1
+    - name: facemask:main
+      position: {x: -0.03058813, y: 0.000003929138, z: -0.000000038146972}
+      rotation: {x: -0.5, y: -0.50000006, z: -0.5, w: 0.50000006}
+      scale: {x: 0.8960478, y: 1.028772, z: 0.20464812}
+      transformModified: 1
+    - name: Gask Mask:Dummy MAIN
+      position: {x: -0.0047431183, y: 0.019173311, z: 0.000000038146972}
+      rotation: {x: 0.7071068, y: -0.7071068, z: 0.00000014189487, w: -0.00000008850979}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Gask Mask:Base
+      position: {x: -0.030602928, y: -0.008670006, z: 1.8189894e-14}
+      rotation: {x: 0.7071068, y: 0.00000012644055, z: 0.7071068, w: -0.00000012644055}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: Hardhat:DummyMAIN
+      position: {x: -0.04206047, y: 0.013967634, z: 0.000000038146972}
+      rotation: {x: 0.7071068, y: -0.7071068, z: 0.00000014189487, w: -0.00000008850979}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hardhat
+      position: {x: -0.00050323067, y: 0.0041296384, z: 1.8189894e-14}
+      rotation: {x: 0.5242078, y: 0.47455898, z: 0.5242078, w: -0.47455898}
+      scale: {x: 0.8545408, y: 1.0811604, z: 1.1098276}
+      transformModified: 1
+    - name: Headset:Dummy MAIN
+      position: {x: -0.011154976, y: 0.015757913, z: 0.000000038146972}
+      rotation: {x: 0.7071068, y: -0.7071068, z: 0.00000014189487, w: -0.00000008850979}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Headset:Dummy Rotation
+      position: {x: 0.00063269614, y: -0.0025502013, z: 0}
+      rotation: {x: -1.1622557e-16, y: 2.6619992e-15, z: 0.043619454, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Headset:Main
+      position: {x: 0.0000000047683715, y: 0.0000045013426, z: -0.03649807}
+      rotation: {x: 0.0000000028283347, y: -7.578432e-10, z: -0.258819, w: 0.9659259}
+      scale: {x: 1.112386, y: 1.1123863, z: 0.8876473}
+      transformModified: 1
+    - name: Headset:Ear Protection
+      position: {x: 0.0006308025, y: -0.0019639586, z: 0.029107895}
+      rotation: {x: 0.04361965, y: 0.00000040166216, z: 0.00000028772, w: 0.99904823}
+      scale: {x: 1, y: 1.0000002, z: 1.5812567}
+      transformModified: 1
+    - name: L Eye
+      position: {x: -0.01803112, y: 0.042453755, z: 0.010619355}
+      rotation: {x: -0.49999982, y: 0.5000002, z: 0.49999982, w: 0.5000002}
+      scale: {x: 0.42003196, y: 0.42003196, z: 0.42003196}
+      transformModified: 1
+    - name: R Eye
+      position: {x: -0.018031081, y: 0.042453755, z: -0.010769652}
+      rotation: {x: 0.5000001, y: 0.49999988, z: -0.5000001, w: 0.49999988}
+      scale: {x: -0.42003196, y: -0.42003196, z: -0.42003196}
+      transformModified: 1
+    - name: top teeth
+      position: {x: 0.0033769226, y: 0.04012147, z: -0.00007514953}
+      rotation: {x: -0.49999982, y: 0.5000002, z: 0.49999982, w: 0.5000002}
+      scale: {x: 0.004250558, y: 0.004250558, z: 0.004250558}
+      transformModified: 1
+    - name: TTChar:HeadJaw001
+      position: {x: 0.0063774106, y: 0.018205767, z: 3.2728167e-11}
+      rotation: {x: -1.5764473e-10, y: 1.2694745e-10, z: -0.7780003, w: 0.6282639}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bottom teeth
+      position: {x: -0.020065727, y: -0.0013690566, z: -0.00007514953}
+      rotation: {x: 0.7030311, y: 0.07581058, z: -0.7030311, w: 0.07581058}
+      scale: {x: 0.004250558, y: 0.004250557, z: 0.004250557}
+      transformModified: 1
+    - name: tongue001
+      position: {x: -0.020400647, y: 0.0062839123, z: -0.00007514953}
+      rotation: {x: 0.44351187, y: 0.55072427, z: -0.44351187, w: 0.55072427}
+      scale: {x: 0.40818438, y: 0.40818435, z: 0.40818435}
+      transformModified: 1
+    - name: WeldingShield:Dummy MAIN
+      position: {x: -0.037134703, y: 0.0031526303, z: 0.000121154786}
+      rotation: {x: 0.7071068, y: -0.7071068, z: 0.00000014189486, w: -0.00000008850978}
+      scale: {x: 1.7739999, y: 1.7739999, z: 1.7739999}
+      transformModified: 1
+    - name: WeldingShield:Base
+      position: {x: -0.010241659, y: -0.0053951642, z: 0.00006828308}
+      rotation: {x: -0.43045947, y: -0.56098545, z: -0.43045947, w: 0.56098545}
+      scale: {x: 0.6260841, y: 0.8028328, z: 0.4953061}
+      transformModified: 1
+    - name: WeldingShield:Dummy Rotation
+      position: {x: 0.00016201078, y: -0.000000038146972, z: 0.000000038146972}
+      rotation: {x: -2.5210055e-14, y: -9.5784205e-15, z: 6.302514e-15, w: 1}
+      scale: {x: 0.5636979, y: 0.5636979, z: 0.5636979}
+      transformModified: 1
+    - name: WeldingShield:Visor
+      position: {x: -0.053763323, y: -0.014091911, z: 0.000121116645}
+      rotation: {x: 0.000000021073426, y: -0.7071068, z: 0.000000021073426, w: 0.7071068}
+      scale: {x: 1.2709275, y: 1.2292647, z: 0.99999994}
+      transformModified: 1
+    - name: TTChar:RCollarbone
+      position: {x: 0.00628788, y: 0.036769, z: -0.014108387}
+      rotation: {x: 0.053147364, y: 0.66535705, z: -0.17188032, w: -0.7245223}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: TTChar:RUpperarm
+      position: {x: -0.059692778, y: 0.000000019073486, z: -0.000000076293944}
+      rotation: {x: -0.10856784, y: -0.07771568, z: -0.16584368, w: 0.97707176}
+      scale: {x: 1.0000013, y: 0.9999999, z: 0.99999976}
+      transformModified: 1
+    - name: TTChar:RForearm1
+      position: {x: -0.09855415, y: 0.0000000023841857, z: 0.000000114440915}
+      rotation: {x: 0.0061196955, y: 0.045072217, z: -0.025095511, w: 0.9986497}
+      scale: {x: 1.0000002, y: 0.99999934, z: 0.99999946}
+      transformModified: 1
+    - name: TTChar:RForearm2
+      position: {x: -0.032105073, y: -0.0000000047683715, z: -0.00000015258789}
+      rotation: {x: 0.0000008642671, y: -0.0000029802316, z: -0.000008605419, w: 1}
+      scale: {x: 1.0000001, y: 0.9999994, z: 0.99999946}
+      transformModified: 1
+    - name: TTChar:RForearm3
+      position: {x: -0.032105103, y: 0.000000009536743, z: -0.00000019073485}
+      rotation: {x: 0, y: 0, z: -0.00000007450581, w: 1}
+      scale: {x: 1.0000011, y: 0.9999995, z: 0.9999997}
+      transformModified: 1
+    - name: TTChar:RPalm
+      position: {x: -0.03210512, y: -0.0000000047683715, z: -0.00000015258789}
+      rotation: {x: 0.7085814, y: 0.13071892, z: -0.08502414, w: 0.688183}
+      scale: {x: 0.99999624, y: 1.0000027, z: 1.0000007}
+      transformModified: 1
+    - name: TTChar:RDigit21
+      position: {x: -0.034860075, y: -0.00057342526, z: -0.010271583}
+      rotation: {x: 0.08014936, y: -0.35155004, z: 0.11719882, w: 0.9253395}
+      scale: {x: 0.9999983, y: 1.000001, z: 1.0000004}
+      transformModified: 1
+    - name: TTChar:RDigit22
+      position: {x: -0.00837265, y: 0, z: -0.000000014305114}
+      rotation: {x: 0.00000012014063, y: 0.00000021653251, z: -0.021616684, w: 0.99976635}
+      scale: {x: 1.0000015, y: 0.9999989, z: 0.99999946}
+      transformModified: 1
+    - name: TTChar:RDigit23
+      position: {x: -0.009076042, y: -0.000000038146972, z: -0.000000021457671}
+      rotation: {x: 0.00000043772155, y: -0.00000035378613, z: -0.029295988, w: 0.9995708}
+      scale: {x: 0.99999964, y: 1.0000001, z: 0.99999946}
+      transformModified: 1
+    - name: TTChar:RDigit41
+      position: {x: -0.034469794, y: 0.00016662598, z: 0.004695761}
+      rotation: {x: -0.0048080822, y: -0.02275171, z: 0.14898622, w: 0.98856586}
+      scale: {x: 0.999999, y: 1.0000006, z: 1.0000012}
+      transformModified: 1
+    - name: TTChar:RDigit42
+      position: {x: -0.009911614, y: -0.000000038146972, z: -0.0000000047683715}
+      rotation: {x: 0.0191289, y: 0.0016417599, z: -0.041032992, w: 0.9989733}
+      scale: {x: 0.999999, y: 0.9999996, z: 0.9999992}
+      transformModified: 1
+    - name: TTChar:RDigit43
+      position: {x: -0.009298935, y: -0.000000038146972, z: 0}
+      rotation: {x: -0.000017920502, y: -0.012698586, z: -0.0013701725, w: 0.9999185}
+      scale: {x: 0.9999998, y: 1.0000012, z: 0.99999964}
+      transformModified: 1
+    - name: TTChar:RDigit51
+      position: {x: -0.03426193, y: -0.00021202087, z: 0.011609411}
+      rotation: {x: -0.003431318, y: -0.019218039, z: 0.15019621, w: 0.9884635}
+      scale: {x: 0.9999987, y: 1.0000005, z: 1.0000007}
+      transformModified: 1
+    - name: TTChar:RDigit52
+      position: {x: -0.0074626347, y: 0, z: 0}
+      rotation: {x: -0.0010233249, y: 0.011254458, z: 0.0063711554, w: 0.99991584}
+      scale: {x: 0.9999994, y: 1.0000002, z: 0.9999998}
+      transformModified: 1
+    - name: TTChar:RDigit53
+      position: {x: -0.0076043317, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0.0007770096, y: -0.0031314304, z: -0.020243239, w: 0.99978995}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1.0000001}
+      transformModified: 1
+    - name: TTChar:RDigit31
+      position: {x: -0.0343639, y: 0.0003633499, z: -0.0029876493}
+      rotation: {x: 0.008744173, y: -0.02392171, z: 0.14937672, w: 0.9884523}
+      scale: {x: 0.99999875, y: 1.0000006, z: 1.000001}
+      transformModified: 1
+    - name: TTChar:RDigit32
+      position: {x: -0.011432514, y: -0.000000038146972, z: -0.000000028610229}
+      rotation: {x: -0.0053981324, y: -0.00060112216, z: -0.040975012, w: 0.9991454}
+      scale: {x: 1.0000017, y: 0.9999995, z: 1.0000004}
+      transformModified: 1
+    - name: TTChar:RDigit33
+      position: {x: -0.0101614, y: -0.000000038146972, z: -0.00000004053116}
+      rotation: {x: -0.0000017005948, y: 0.0000010680523, z: -0.030469647, w: 0.9995357}
+      scale: {x: 0.9999994, y: 0.99999976, z: 0.9999989}
+      transformModified: 1
+    - name: TTChar:RDigit11
+      position: {x: -0.010278205, y: -0.003638916, z: -0.011184876}
+      rotation: {x: -0.663999, y: -0.13914995, z: 0.00218845, w: 0.73466855}
+      scale: {x: 1.000004, y: 0.999995, z: 1.0000006}
+      transformModified: 1
+    - name: TTChar:RDigit12
+      position: {x: -0.011665306, y: 0.000000019073486, z: -0.000000076293944}
+      rotation: {x: 0.01177948, y: 0.0024037347, z: 0.03024013, w: 0.9994704}
+      scale: {x: 0.9999983, y: 1.000002, z: 1.0000011}
+      transformModified: 1
+    - name: TTChar:RDigit13
+      position: {x: -0.007766361, y: 0.000000009536743, z: 0.000000038146972}
+      rotation: {x: 0.00000047683716, y: -0.00000033527613, z: -0.039291464, w: 0.9992279}
+      scale: {x: 0.99999785, y: 1.0000006, z: 0.9999995}
+      transformModified: 1
+    - name: TTChar:LCollarbone
+      position: {x: 0.00628788, y: 0.036769003, z: 0.014108387}
+      rotation: {x: 0.053147376, y: 0.66535693, z: 0.17187999, w: 0.72452253}
+      scale: {x: 0.9999998, y: 0.9999994, z: 0.99999946}
+      transformModified: 1
+    - name: TTChar:LUpperarm
+      position: {x: -0.05969278, y: -0.000000028610229, z: 0}
+      rotation: {x: 0.10856755, y: 0.077716164, z: -0.16583924, w: 0.97707254}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1.0000006}
+      transformModified: 1
+    - name: TTChar:LForearm1
+      position: {x: -0.09855411, y: -0.0000000047683715, z: 0.000000076293944}
+      rotation: {x: -0.006120198, y: -0.04506743, z: -0.025104024, w: 0.9986497}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000006}
+      transformModified: 1
+    - name: TTChar:LForearm2
+      position: {x: -0.032105055, y: -0.000000014305114, z: -0.00000019073485}
+      rotation: {x: -0.0000000037252903, y: 0.000000022351742, z: 0.000000059604645,
+        w: 1}
+      scale: {x: 0.9999994, y: 0.9999998, z: 1.0000008}
+      transformModified: 1
+    - name: TTChar:LForearm3
+      position: {x: -0.032105062, y: -0.000000014305114, z: -0.00000019073485}
+      rotation: {x: 0.0000000018626451, y: -0.000000014901161, z: -0.000000074505806,
+        w: 1}
+      scale: {x: 0.99999917, y: 0.9999992, z: 1.0000001}
+      transformModified: 1
+    - name: TTChar:LPalm
+      position: {x: -0.032105062, y: -0.000000019073486, z: -0.000000114440915}
+      rotation: {x: -0.7085831, y: -0.13071644, z: -0.08502206, w: 0.688182}
+      scale: {x: 1.0000026, y: 0.99999756, z: 0.9999983}
+      transformModified: 1
+    - name: welding torch
+      position: {x: -0.020255622, y: -0.005352821, z: -0.015557827}
+      rotation: {x: -0.10917966, y: -0.029021086, z: 0.98272836, w: -0.14656939}
+      scale: {x: 1.0580518, y: 1.0580488, z: 1.0580487}
+      transformModified: 1
+    - name: TTChar:LDigit21
+      position: {x: -0.034860227, y: -0.0005732345, z: 0.0102715725}
+      rotation: {x: -0.08014815, y: 0.35155174, z: 0.11719573, w: 0.9253393}
+      scale: {x: 1.0000024, y: 0.99999857, z: 0.99999964}
+      transformModified: 1
+    - name: TTChar:LDigit22
+      position: {x: -0.008372631, y: 0, z: -0.000000019073486}
+      rotation: {x: -0.00000013411045, y: -0.00000011493103, z: -0.021616606, w: 0.99976635}
+      scale: {x: 0.9999972, y: 1.0000014, z: 0.9999989}
+      transformModified: 1
+    - name: TTChar:LDigit23
+      position: {x: -0.009076004, y: 0, z: -0.000000023841856}
+      rotation: {x: -0.0000005271286, y: 0.0000003377354, z: -0.029295897, w: 0.99957085}
+      scale: {x: 1.0000024, y: 0.99999887, z: 0.9999998}
+      transformModified: 1
+    - name: TTChar:LDigit41
+      position: {x: -0.034469984, y: 0.00016670227, z: -0.0046957685}
+      rotation: {x: 0.0048087756, y: 0.022751592, z: 0.14898501, w: 0.98856604}
+      scale: {x: 1.0000015, y: 0.9999987, z: 0.99999875}
+      transformModified: 1
+    - name: TTChar:LDigit42
+      position: {x: -0.009911614, y: 0.000000038146972, z: -0.000000014305114}
+      rotation: {x: -0.019128831, y: -0.0016417073, z: -0.041032515, w: 0.9989733}
+      scale: {x: 0.9999991, y: 1.0000014, z: 1.0000002}
+      transformModified: 1
+    - name: TTChar:LDigit43
+      position: {x: -0.009298954, y: 0.000000038146972, z: -0.000000007152557}
+      rotation: {x: 0.000017862763, y: 0.0126986895, z: -0.0013699225, w: 0.9999185}
+      scale: {x: 1.0000026, y: 0.9999974, z: 0.99999857}
+      transformModified: 1
+    - name: TTChar:LDigit51
+      position: {x: -0.03426212, y: -0.00021194457, z: -0.01160942}
+      rotation: {x: 0.0034316166, y: 0.019217687, z: 0.1501947, w: 0.9884637}
+      scale: {x: 1.0000019, y: 0.99999875, z: 0.99999887}
+      transformModified: 1
+    - name: TTChar:LDigit52
+      position: {x: -0.0074626347, y: 0.000000038146972, z: -0.0000000047683715}
+      rotation: {x: 0.0010233646, y: -0.011254464, z: 0.006371113, w: 0.9999159}
+      scale: {x: 0.9999994, y: 1.0000014, z: 1.0000002}
+      transformModified: 1
+    - name: TTChar:LDigit53
+      position: {x: -0.0076043317, y: 0.000000038146972, z: -0.0000000047683715}
+      rotation: {x: -0.0007771015, y: 0.003131555, z: -0.020243162, w: 0.9997899}
+      scale: {x: 1.0000029, y: 0.9999959, z: 0.9999994}
+      transformModified: 1
+    - name: TTChar:LDigit31
+      position: {x: -0.03436409, y: 0.00036346435, z: 0.0029876423}
+      rotation: {x: -0.0087428745, y: 0.023922639, z: 0.1493696, w: 0.9884534}
+      scale: {x: 1.0000019, y: 0.9999987, z: 0.99999976}
+      transformModified: 1
+    - name: TTChar:LDigit32
+      position: {x: -0.011432514, y: 0, z: -0.0000000333786}
+      rotation: {x: 0.0053994097, y: 0.00060109165, z: -0.040974636, w: 0.99914545}
+      scale: {x: 0.9999993, y: 1.0000011, z: 0.9999993}
+      transformModified: 1
+    - name: TTChar:LDigit33
+      position: {x: -0.010161457, y: -0.000000038146972, z: -0.000000035762785}
+      rotation: {x: -0.0000013427342, y: -0.0000011164806, z: -0.030470835, w: 0.9995357}
+      scale: {x: 1.0000021, y: 0.9999981, z: 0.99999976}
+      transformModified: 1
+    - name: TTChar:LDigit11
+      position: {x: -0.010278244, y: -0.0036388396, z: 0.011184859}
+      rotation: {x: 0.6639972, y: 0.13914886, z: 0.0021890628, w: 0.73467046}
+      scale: {x: 0.9999993, y: 1.0000021, z: 0.9999985}
+      transformModified: 1
+    - name: TTChar:LDigit12
+      position: {x: -0.011665277, y: 0, z: -0.000000038146972}
+      rotation: {x: -0.011777676, y: -0.0024089718, z: 0.030236792, w: 0.9994705}
+      scale: {x: 1.0000002, y: 0.9999996, z: 1.0000008}
+      transformModified: 1
+    - name: TTChar:LDigit13
+      position: {x: -0.007766361, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0.00000049732614, y: 0.000000052154054, z: -0.039291386, w: 0.9992278}
+      scale: {x: 0.99999946, y: 1.0000005, z: 0.99999976}
+      transformModified: 1
+    - name: TTChar:RThigh
+      position: {x: -0.006236343, y: 0.01700543, z: -0.03186418}
+      rotation: {x: 0.025634125, y: 0.9994968, z: 0.0054609776, w: -0.01786691}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000008}
+      transformModified: 1
+    - name: TTChar:RCalf
+      position: {x: -0.15826279, y: 0.0000002849102, z: 0.000000052452087}
+      rotation: {x: -0.0002004802, y: 0.0000398159, z: 0.03797276, w: 0.9992788}
+      scale: {x: 0.9999994, y: 1.0000006, z: 0.9999997}
+      transformModified: 1
+    - name: TTChar:RFoot
+      position: {x: -0.16675359, y: -0.0000000047683715, z: -0.0000000047683715}
+      rotation: {x: 0.015383184, y: -0.0108323395, z: -0.6609436, w: 0.7501997}
+      scale: {x: 0.9999984, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: TTChar:RFootBone
+      position: {x: -0.052492302, y: 0.00031685352, z: -0.000026545524}
+      rotation: {x: 0, y: 0.000000028929207, z: -0.11957422, w: 0.9928253}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: TTChar:LThigh
+      position: {x: -0.006236343, y: 0.01700543, z: 0.03186418}
+      rotation: {x: 0.02564554, y: 0.99949694, z: -0.0054694116, w: 0.01784408}
+      scale: {x: 0.9999997, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: TTChar:LCalf
+      position: {x: -0.15826279, y: 0.0000002837181, z: -0.000000052452087}
+      rotation: {x: 0.0002105087, y: -0.000022858381, z: 0.037969097, w: 0.99927896}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000001}
+      transformModified: 1
+    - name: TTChar:LFoot
+      position: {x: -0.16675314, y: -0.0000000023841857, z: -0.0000000047683715}
+      rotation: {x: -0.015383629, y: 0.010831858, z: -0.6609404, w: 0.75020254}
+      scale: {x: 0.9999993, y: 0.99999917, z: 0.9999993}
+      transformModified: 1
+    - name: TTChar:LFootBone
+      position: {x: -0.052492253, y: 0.0003168416, z: 0.000026550293}
+      rotation: {x: 0.0000000037252899, y: 0.000000050757073, z: -0.11957414, w: 0.99282527}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000006}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

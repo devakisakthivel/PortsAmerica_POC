@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 67dceb977248dfd47ad0c39b759995d1
+timeCreated: 1464371130
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: blend_root
+    100002: bottle
+    100004: bottom teeth
+    100006: Cube
+    100008: Cube.001
+    100010: Cube.002
+    100012: Dust Mask
+    100014: Dust Mask Dummy
+    100016: earplug1
+    100018: earplug2
+    100020: EarplugDummy
+    100022: 'Eyewear: DummyMAIN'
+    100024: 'Eyewear: Goggles'
+    100026: 'Eyewear: String'
+    100028: face1
+    100030: 'facemask: clear visor'
+    100032: 'facemask: main'
+    100034: facemask:Dummy rotation
+    100036: facemask:DummyMAIN
+    100038: facemask:visor plate
+    100040: Frame
+    100042: 'Gask Mask: Base'
+    100044: 'Gask Mask: Dummy MAIN'
+    100046: Glove:L
+    100048: Glove:R
+    100050: Hardhat
+    100052: 'Hardhat: DummyMAIN'
+    100054: 'Harness: Base'
+    100056: 'Harness: DummyMAIN'
+    100058: 'Harness: Ring Connection'
+    100060: 'Headset: Dummy MAIN'
+    100062: 'Headset: Dummy Rotation'
+    100064: 'Headset: Ear Protection'
+    100066: 'Headset: Main'
+    100068: L Eye
+    100070: L_arm
+    100072: Laser Goggles Frame
+    100074: LaserGoggles Dummy
+    100076: Lboot
+    100078: LBootfoundryflap
+    100080: LG lens
+    100082: Longsleeve_Shirt
+    100084: LShortGlove
+    100086: LSock
+    100088: Lv3 safety vest sleeves
+    100090: O2 base
+    100092: O2 dummy1
+    100094: O2 Dummy2
+    100096: O2 facemask
+    100098: O2 Harness
+    100100: O2 tank
+    100102: O2 transparent shield
+    100104: O2_tube
+    100106: pants
+    100108: Plane003
+    100110: PPE Character1_Ctrl:ChestEndEffector
+    100112: PPE Character1_Ctrl:ChestOriginEffector
+    100114: PPE Character1_Ctrl:Head
+    100116: PPE Character1_Ctrl:HeadEffector
+    100118: PPE Character1_Ctrl:Hips
+    100120: PPE Character1_Ctrl:HipsEffector
+    100122: PPE Character1_Ctrl:LeftAnkleEffector
+    100124: PPE Character1_Ctrl:LeftArm
+    100126: PPE Character1_Ctrl:LeftElbowEffector
+    100128: PPE Character1_Ctrl:LeftFoot
+    100130: PPE Character1_Ctrl:LeftFootEffector
+    100132: PPE Character1_Ctrl:LeftForeArm
+    100134: PPE Character1_Ctrl:LeftHand
+    100136: PPE Character1_Ctrl:LeftHandIndex1
+    100138: PPE Character1_Ctrl:LeftHandIndex2
+    100140: PPE Character1_Ctrl:LeftHandIndex3
+    100142: PPE Character1_Ctrl:LeftHandIndexEffector
+    100144: PPE Character1_Ctrl:LeftHandMiddle1
+    100146: PPE Character1_Ctrl:LeftHandMiddle2
+    100148: PPE Character1_Ctrl:LeftHandMiddle3
+    100150: PPE Character1_Ctrl:LeftHandMiddleEffector
+    100152: PPE Character1_Ctrl:LeftHandPinky1
+    100154: PPE Character1_Ctrl:LeftHandPinky2
+    100156: PPE Character1_Ctrl:LeftHandPinky3
+    100158: PPE Character1_Ctrl:LeftHandPinkyEffector
+    100160: PPE Character1_Ctrl:LeftHandRing1
+    100162: PPE Character1_Ctrl:LeftHandRing2
+    100164: PPE Character1_Ctrl:LeftHandRing3
+    100166: PPE Character1_Ctrl:LeftHandRingEffector
+    100168: PPE Character1_Ctrl:LeftHandThumb1
+    100170: PPE Character1_Ctrl:LeftHandThumb2
+    100172: PPE Character1_Ctrl:LeftHandThumb3
+    100174: PPE Character1_Ctrl:LeftHandThumbEffector
+    100176: PPE Character1_Ctrl:LeftHipEffector
+    100178: PPE Character1_Ctrl:LeftKneeEffector
+    100180: PPE Character1_Ctrl:LeftLeg
+    100182: PPE Character1_Ctrl:LeftShoulder
+    100184: PPE Character1_Ctrl:LeftShoulderEffector
+    100186: PPE Character1_Ctrl:LeftToeBase
+    100188: PPE Character1_Ctrl:LeftUpLeg
+    100190: PPE Character1_Ctrl:LeftWristEffector
+    100192: PPE Character1_Ctrl:Neck
+    100194: PPE Character1_Ctrl:Neck1
+    100196: PPE Character1_Ctrl:Reference
+    100198: PPE Character1_Ctrl:RightAnkleEffector
+    100200: PPE Character1_Ctrl:RightArm
+    100202: PPE Character1_Ctrl:RightElbowEffector
+    100204: PPE Character1_Ctrl:RightFoot
+    100206: PPE Character1_Ctrl:RightFootEffector
+    100208: PPE Character1_Ctrl:RightForeArm
+    100210: PPE Character1_Ctrl:RightHand
+    100212: PPE Character1_Ctrl:RightHandIndex1
+    100214: PPE Character1_Ctrl:RightHandIndex2
+    100216: PPE Character1_Ctrl:RightHandIndex3
+    100218: PPE Character1_Ctrl:RightHandIndexEffector
+    100220: PPE Character1_Ctrl:RightHandMiddle1
+    100222: PPE Character1_Ctrl:RightHandMiddle2
+    100224: PPE Character1_Ctrl:RightHandMiddle3
+    100226: PPE Character1_Ctrl:RightHandMiddleEffector
+    100228: PPE Character1_Ctrl:RightHandPinky1
+    100230: PPE Character1_Ctrl:RightHandPinky2
+    100232: PPE Character1_Ctrl:RightHandPinky3
+    100234: PPE Character1_Ctrl:RightHandPinkyEffector
+    100236: PPE Character1_Ctrl:RightHandRing1
+    100238: PPE Character1_Ctrl:RightHandRing2
+    100240: PPE Character1_Ctrl:RightHandRing3
+    100242: PPE Character1_Ctrl:RightHandRingEffector
+    100244: PPE Character1_Ctrl:RightHandThumb1
+    100246: PPE Character1_Ctrl:RightHandThumb2
+    100248: PPE Character1_Ctrl:RightHandThumb3
+    100250: PPE Character1_Ctrl:RightHandThumbEffector
+    100252: PPE Character1_Ctrl:RightHipEffector
+    100254: PPE Character1_Ctrl:RightKneeEffector
+    100256: PPE Character1_Ctrl:RightLeg
+    100258: PPE Character1_Ctrl:RightShoulder
+    100260: PPE Character1_Ctrl:RightShoulderEffector
+    100262: PPE Character1_Ctrl:RightToeBase
+    100264: PPE Character1_Ctrl:RightUpLeg
+    100266: PPE Character1_Ctrl:RightWristEffector
+    100268: PPE Character1_Ctrl:Spine
+    100270: PPE Character1_Ctrl:Spine1
+    100272: PPE Character1_Ctrl:Spine2
+    100274: PPE Character1_Ctrl:Spine3
+    100276: PPE Character1_Ctrl:Spine4
+    100278: //RootNode
+    100280: R Eye
+    100282: R_arm
+    100284: Rboot
+    100286: RBootfoundryflap
+    100288: RShortGlove
+    100290: RSock
+    100292: SafetyVest
+    100294: tongue001
+    100296: top teeth
+    100298: 'TTChar:'
+    100300: TTChar:Head
+    100302: TTChar:HeadJaw001
+    100304: TTChar:LCalf
+    100306: TTChar:LCollarbone
+    100308: TTChar:LDigit11
+    100310: TTChar:LDigit12
+    100312: TTChar:LDigit13
+    100314: TTChar:LDigit21
+    100316: TTChar:LDigit22
+    100318: TTChar:LDigit23
+    100320: TTChar:LDigit31
+    100322: TTChar:LDigit32
+    100324: TTChar:LDigit33
+    100326: TTChar:LDigit41
+    100328: TTChar:LDigit42
+    100330: TTChar:LDigit43
+    100332: TTChar:LDigit51
+    100334: TTChar:LDigit52
+    100336: TTChar:LDigit53
+    100338: TTChar:LFoot
+    100340: TTChar:LFootBone
+    100342: TTChar:LForearm1
+    100344: TTChar:LForearm2
+    100346: TTChar:LForearm3
+    100348: TTChar:LPalm
+    100350: TTChar:LPlatform
+    100352: TTChar:LThigh
+    100354: TTChar:LUpperarm
+    100356: TTChar:Neck1
+    100358: TTChar:Neck2
+    100360: TTChar:Pelvis
+    100362: TTChar:RCalf
+    100364: TTChar:RCollarbone
+    100366: TTChar:RDigit11
+    100368: TTChar:RDigit12
+    100370: TTChar:RDigit13
+    100372: TTChar:RDigit21
+    100374: TTChar:RDigit22
+    100376: TTChar:RDigit23
+    100378: TTChar:RDigit31
+    100380: TTChar:RDigit32
+    100382: TTChar:RDigit33
+    100384: TTChar:RDigit41
+    100386: TTChar:RDigit42
+    100388: TTChar:RDigit43
+    100390: TTChar:RDigit51
+    100392: TTChar:RDigit52
+    100394: TTChar:RDigit53
+    100396: TTChar:RFoot
+    100398: TTChar:RFootBone
+    100400: TTChar:RForearm1
+    100402: TTChar:RForearm2
+    100404: TTChar:RForearm3
+    100406: TTChar:Ribcage
+    100408: TTChar:RPalm
+    100410: TTChar:RPlatform
+    100412: TTChar:RThigh
+    100414: TTChar:RUpperarm
+    100416: TTChar:Spine1
+    100418: TTChar:Spine2
+    100420: TTChar:Spine3
+    100422: TTChar:Spine4
+    100424: 'WeldingShield: Base'
+    100426: 'WeldingShield: Dummy MAIN'
+    100428: 'WeldingShield: Dummy Rotation'
+    100430: 'WeldingShield: Visor'
+    400000: blend_root
+    400002: bottle
+    400004: bottom teeth
+    400006: Cube
+    400008: Cube.001
+    400010: Cube.002
+    400012: Dust Mask
+    400014: Dust Mask Dummy
+    400016: earplug1
+    400018: earplug2
+    400020: EarplugDummy
+    400022: 'Eyewear: DummyMAIN'
+    400024: 'Eyewear: Goggles'
+    400026: 'Eyewear: String'
+    400028: face1
+    400030: 'facemask: clear visor'
+    400032: 'facemask: main'
+    400034: facemask:Dummy rotation
+    400036: facemask:DummyMAIN
+    400038: facemask:visor plate
+    400040: Frame
+    400042: 'Gask Mask: Base'
+    400044: 'Gask Mask: Dummy MAIN'
+    400046: Glove:L
+    400048: Glove:R
+    400050: Hardhat
+    400052: 'Hardhat: DummyMAIN'
+    400054: 'Harness: Base'
+    400056: 'Harness: DummyMAIN'
+    400058: 'Harness: Ring Connection'
+    400060: 'Headset: Dummy MAIN'
+    400062: 'Headset: Dummy Rotation'
+    400064: 'Headset: Ear Protection'
+    400066: 'Headset: Main'
+    400068: L Eye
+    400070: L_arm
+    400072: Laser Goggles Frame
+    400074: LaserGoggles Dummy
+    400076: Lboot
+    400078: LBootfoundryflap
+    400080: LG lens
+    400082: Longsleeve_Shirt
+    400084: LShortGlove
+    400086: LSock
+    400088: Lv3 safety vest sleeves
+    400090: O2 base
+    400092: O2 dummy1
+    400094: O2 Dummy2
+    400096: O2 facemask
+    400098: O2 Harness
+    400100: O2 tank
+    400102: O2 transparent shield
+    400104: O2_tube
+    400106: pants
+    400108: Plane003
+    400110: PPE Character1_Ctrl:ChestEndEffector
+    400112: PPE Character1_Ctrl:ChestOriginEffector
+    400114: PPE Character1_Ctrl:Head
+    400116: PPE Character1_Ctrl:HeadEffector
+    400118: PPE Character1_Ctrl:Hips
+    400120: PPE Character1_Ctrl:HipsEffector
+    400122: PPE Character1_Ctrl:LeftAnkleEffector
+    400124: PPE Character1_Ctrl:LeftArm
+    400126: PPE Character1_Ctrl:LeftElbowEffector
+    400128: PPE Character1_Ctrl:LeftFoot
+    400130: PPE Character1_Ctrl:LeftFootEffector
+    400132: PPE Character1_Ctrl:LeftForeArm
+    400134: PPE Character1_Ctrl:LeftHand
+    400136: PPE Character1_Ctrl:LeftHandIndex1
+    400138: PPE Character1_Ctrl:LeftHandIndex2
+    400140: PPE Character1_Ctrl:LeftHandIndex3
+    400142: PPE Character1_Ctrl:LeftHandIndexEffector
+    400144: PPE Character1_Ctrl:LeftHandMiddle1
+    400146: PPE Character1_Ctrl:LeftHandMiddle2
+    400148: PPE Character1_Ctrl:LeftHandMiddle3
+    400150: PPE Character1_Ctrl:LeftHandMiddleEffector
+    400152: PPE Character1_Ctrl:LeftHandPinky1
+    400154: PPE Character1_Ctrl:LeftHandPinky2
+    400156: PPE Character1_Ctrl:LeftHandPinky3
+    400158: PPE Character1_Ctrl:LeftHandPinkyEffector
+    400160: PPE Character1_Ctrl:LeftHandRing1
+    400162: PPE Character1_Ctrl:LeftHandRing2
+    400164: PPE Character1_Ctrl:LeftHandRing3
+    400166: PPE Character1_Ctrl:LeftHandRingEffector
+    400168: PPE Character1_Ctrl:LeftHandThumb1
+    400170: PPE Character1_Ctrl:LeftHandThumb2
+    400172: PPE Character1_Ctrl:LeftHandThumb3
+    400174: PPE Character1_Ctrl:LeftHandThumbEffector
+    400176: PPE Character1_Ctrl:LeftHipEffector
+    400178: PPE Character1_Ctrl:LeftKneeEffector
+    400180: PPE Character1_Ctrl:LeftLeg
+    400182: PPE Character1_Ctrl:LeftShoulder
+    400184: PPE Character1_Ctrl:LeftShoulderEffector
+    400186: PPE Character1_Ctrl:LeftToeBase
+    400188: PPE Character1_Ctrl:LeftUpLeg
+    400190: PPE Character1_Ctrl:LeftWristEffector
+    400192: PPE Character1_Ctrl:Neck
+    400194: PPE Character1_Ctrl:Neck1
+    400196: PPE Character1_Ctrl:Reference
+    400198: PPE Character1_Ctrl:RightAnkleEffector
+    400200: PPE Character1_Ctrl:RightArm
+    400202: PPE Character1_Ctrl:RightElbowEffector
+    400204: PPE Character1_Ctrl:RightFoot
+    400206: PPE Character1_Ctrl:RightFootEffector
+    400208: PPE Character1_Ctrl:RightForeArm
+    400210: PPE Character1_Ctrl:RightHand
+    400212: PPE Character1_Ctrl:RightHandIndex1
+    400214: PPE Character1_Ctrl:RightHandIndex2
+    400216: PPE Character1_Ctrl:RightHandIndex3
+    400218: PPE Character1_Ctrl:RightHandIndexEffector
+    400220: PPE Character1_Ctrl:RightHandMiddle1
+    400222: PPE Character1_Ctrl:RightHandMiddle2
+    400224: PPE Character1_Ctrl:RightHandMiddle3
+    400226: PPE Character1_Ctrl:RightHandMiddleEffector
+    400228: PPE Character1_Ctrl:RightHandPinky1
+    400230: PPE Character1_Ctrl:RightHandPinky2
+    400232: PPE Character1_Ctrl:RightHandPinky3
+    400234: PPE Character1_Ctrl:RightHandPinkyEffector
+    400236: PPE Character1_Ctrl:RightHandRing1
+    400238: PPE Character1_Ctrl:RightHandRing2
+    400240: PPE Character1_Ctrl:RightHandRing3
+    400242: PPE Character1_Ctrl:RightHandRingEffector
+    400244: PPE Character1_Ctrl:RightHandThumb1
+    400246: PPE Character1_Ctrl:RightHandThumb2
+    400248: PPE Character1_Ctrl:RightHandThumb3
+    400250: PPE Character1_Ctrl:RightHandThumbEffector
+    400252: PPE Character1_Ctrl:RightHipEffector
+    400254: PPE Character1_Ctrl:RightKneeEffector
+    400256: PPE Character1_Ctrl:RightLeg
+    400258: PPE Character1_Ctrl:RightShoulder
+    400260: PPE Character1_Ctrl:RightShoulderEffector
+    400262: PPE Character1_Ctrl:RightToeBase
+    400264: PPE Character1_Ctrl:RightUpLeg
+    400266: PPE Character1_Ctrl:RightWristEffector
+    400268: PPE Character1_Ctrl:Spine
+    400270: PPE Character1_Ctrl:Spine1
+    400272: PPE Character1_Ctrl:Spine2
+    400274: PPE Character1_Ctrl:Spine3
+    400276: PPE Character1_Ctrl:Spine4
+    400278: //RootNode
+    400280: R Eye
+    400282: R_arm
+    400284: Rboot
+    400286: RBootfoundryflap
+    400288: RShortGlove
+    400290: RSock
+    400292: SafetyVest
+    400294: tongue001
+    400296: top teeth
+    400298: 'TTChar:'
+    400300: TTChar:Head
+    400302: TTChar:HeadJaw001
+    400304: TTChar:LCalf
+    400306: TTChar:LCollarbone
+    400308: TTChar:LDigit11
+    400310: TTChar:LDigit12
+    400312: TTChar:LDigit13
+    400314: TTChar:LDigit21
+    400316: TTChar:LDigit22
+    400318: TTChar:LDigit23
+    400320: TTChar:LDigit31
+    400322: TTChar:LDigit32
+    400324: TTChar:LDigit33
+    400326: TTChar:LDigit41
+    400328: TTChar:LDigit42
+    400330: TTChar:LDigit43
+    400332: TTChar:LDigit51
+    400334: TTChar:LDigit52
+    400336: TTChar:LDigit53
+    400338: TTChar:LFoot
+    400340: TTChar:LFootBone
+    400342: TTChar:LForearm1
+    400344: TTChar:LForearm2
+    400346: TTChar:LForearm3
+    400348: TTChar:LPalm
+    400350: TTChar:LPlatform
+    400352: TTChar:LThigh
+    400354: TTChar:LUpperarm
+    400356: TTChar:Neck1
+    400358: TTChar:Neck2
+    400360: TTChar:Pelvis
+    400362: TTChar:RCalf
+    400364: TTChar:RCollarbone
+    400366: TTChar:RDigit11
+    400368: TTChar:RDigit12
+    400370: TTChar:RDigit13
+    400372: TTChar:RDigit21
+    400374: TTChar:RDigit22
+    400376: TTChar:RDigit23
+    400378: TTChar:RDigit31
+    400380: TTChar:RDigit32
+    400382: TTChar:RDigit33
+    400384: TTChar:RDigit41
+    400386: TTChar:RDigit42
+    400388: TTChar:RDigit43
+    400390: TTChar:RDigit51
+    400392: TTChar:RDigit52
+    400394: TTChar:RDigit53
+    400396: TTChar:RFoot
+    400398: TTChar:RFootBone
+    400400: TTChar:RForearm1
+    400402: TTChar:RForearm2
+    400404: TTChar:RForearm3
+    400406: TTChar:Ribcage
+    400408: TTChar:RPalm
+    400410: TTChar:RPlatform
+    400412: TTChar:RThigh
+    400414: TTChar:RUpperarm
+    400416: TTChar:Spine1
+    400418: TTChar:Spine2
+    400420: TTChar:Spine3
+    400422: TTChar:Spine4
+    400424: 'WeldingShield: Base'
+    400426: 'WeldingShield: Dummy MAIN'
+    400428: 'WeldingShield: Dummy Rotation'
+    400430: 'WeldingShield: Visor'
+    2300000: bottle
+    2300002: bottom teeth
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Cube.002
+    2300010: Dust Mask
+    2300012: earplug1
+    2300014: earplug2
+    2300016: 'Eyewear: Goggles'
+    2300018: 'Eyewear: String'
+    2300020: 'facemask: clear visor'
+    2300022: 'facemask: main'
+    2300024: facemask:visor plate
+    2300026: Frame
+    2300028: 'Gask Mask: Base'
+    2300030: Hardhat
+    2300032: 'Harness: Ring Connection'
+    2300034: 'Headset: Ear Protection'
+    2300036: 'Headset: Main'
+    2300038: L Eye
+    2300040: Laser Goggles Frame
+    2300042: LG lens
+    2300044: O2 base
+    2300046: O2 facemask
+    2300048: O2 tank
+    2300050: O2 transparent shield
+    2300052: Plane003
+    2300054: R Eye
+    2300056: tongue001
+    2300058: top teeth
+    2300060: 'WeldingShield: Base'
+    2300062: 'WeldingShield: Visor'
+    3300000: bottle
+    3300002: bottom teeth
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Cube.002
+    3300010: Dust Mask
+    3300012: earplug1
+    3300014: earplug2
+    3300016: 'Eyewear: Goggles'
+    3300018: 'Eyewear: String'
+    3300020: 'facemask: clear visor'
+    3300022: 'facemask: main'
+    3300024: facemask:visor plate
+    3300026: Frame
+    3300028: 'Gask Mask: Base'
+    3300030: Hardhat
+    3300032: 'Harness: Ring Connection'
+    3300034: 'Headset: Ear Protection'
+    3300036: 'Headset: Main'
+    3300038: L Eye
+    3300040: Laser Goggles Frame
+    3300042: LG lens
+    3300044: O2 base
+    3300046: O2 facemask
+    3300048: O2 tank
+    3300050: O2 transparent shield
+    3300052: Plane003
+    3300054: R Eye
+    3300056: tongue001
+    3300058: top teeth
+    3300060: 'WeldingShield: Base'
+    3300062: 'WeldingShield: Visor'
+    4300000: pants
+    4300002: bottle
+    4300004: bottom teeth
+    4300006: tongue001
+    4300008: Hardhat
+    4300010: 'Gask Mask: Base'
+    4300012: 'Headset: Main'
+    4300014: 'Headset: Ear Protection'
+    4300016: 'WeldingShield: Visor'
+    4300018: 'WeldingShield: Base'
+    4300020: 'Eyewear: Goggles'
+    4300022: 'Eyewear: String'
+    4300024: facemask:visor plate
+    4300026: 'facemask: clear visor'
+    4300028: 'facemask: main'
+    4300030: top teeth
+    4300032: L Eye
+    4300034: R Eye
+    4300036: earplug2
+    4300038: earplug1
+    4300040: Frame
+    4300042: Cube.002
+    4300044: Cube.001
+    4300046: Cube
+    4300048: Laser Goggles Frame
+    4300050: LG lens
+    4300052: O2 transparent shield
+    4300054: O2 facemask
+    4300056: Dust Mask
+    4300058: 'Harness: Ring Connection'
+    4300060: Plane003
+    4300062: O2 base
+    4300064: O2 tank
+    4300066: face1
+    4300068: Rboot
+    4300070: Glove:R
+    4300072: 'Harness: Base'
+    4300074: R_arm
+    4300076: L_arm
+    4300078: Lboot
+    4300080: Glove:L
+    4300082: Longsleeve_Shirt
+    4300084: SafetyVest
+    4300086: RShortGlove
+    4300088: LShortGlove
+    4300090: O2 Harness
+    4300092: O2_tube
+    4300094: RBootfoundryflap
+    4300096: RSock
+    4300098: LSock
+    4300100: LBootfoundryflap
+    4300102: Lv3 safety vest sleeves
+    9500000: //RootNode
+    13700000: face1
+    13700002: Glove:L
+    13700004: Glove:R
+    13700006: 'Harness: Base'
+    13700008: L_arm
+    13700010: Lboot
+    13700012: LBootfoundryflap
+    13700014: Longsleeve_Shirt
+    13700016: LShortGlove
+    13700018: LSock
+    13700020: Lv3 safety vest sleeves
+    13700022: O2 Harness
+    13700024: O2_tube
+    13700026: pants
+    13700028: R_arm
+    13700030: Rboot
+    13700032: RBootfoundryflap
+    13700034: RShortGlove
+    13700036: RSock
+    13700038: SafetyVest
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

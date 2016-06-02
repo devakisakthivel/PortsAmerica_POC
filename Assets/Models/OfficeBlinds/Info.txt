@@ -1,0 +1,3 @@
+Item name:office_Blinds
+
+Triangle Count: 458

@@ -1,0 +1,3 @@
+Item name: CF_Light
+
+Triangle Count: 594

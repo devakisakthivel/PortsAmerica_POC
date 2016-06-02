@@ -1,0 +1,3 @@
+Item name: TV_Stand
+
+Triangle Count: 52

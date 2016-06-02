@@ -1,0 +1,12 @@
+Item name:corkBoard
+
+Triangle Count: 34
+
+Item name:Thumbtack
+
+Triangle Count: 60
+
+Item name: PostitNote
+
+Triangle Count: 2
+

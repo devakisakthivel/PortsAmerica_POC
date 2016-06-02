@@ -1,0 +1,3 @@
+Item name:chair_02
+
+Triangle Count: 212

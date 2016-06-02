@@ -1,0 +1,3 @@
+Item name:NFO_ShelvingUnit
+
+Triangle Count: 58

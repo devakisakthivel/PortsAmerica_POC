@@ -1,0 +1,3 @@
+Item name:trashBin
+
+Triangle Count: 180

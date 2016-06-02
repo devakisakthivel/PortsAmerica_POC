@@ -1,0 +1,3 @@
+Item name:PottedPlant
+
+Triangle Count: 622

@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: db5bc11d1d1868944a263fea6d3caa22
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ambulance01
+    100004: redLight1
+    100006: WheelBL
+    100008: WheelBR
+    100010: WheelFL
+    100012: WheelFR
+    100014: RedLights
+    100016: WhiteLights
+    100018: LeftHeadLight
+    100020: RedLight1
+    100022: RedLight2
+    100024: RedLight3
+    100026: RedLight4
+    100028: RightHeadLight
+    100030: WhiteLight1
+    100032: WhiteLight2
+    100034: Windows
+    400000: //RootNode
+    400002: Ambulance01
+    400004: redLight1
+    400006: WheelBL
+    400008: WheelBR
+    400010: WheelFL
+    400012: WheelFR
+    400014: RedLights
+    400016: WhiteLights
+    400018: LeftHeadLight
+    400020: RedLight1
+    400022: RedLight2
+    400024: RedLight3
+    400026: RedLight4
+    400028: RightHeadLight
+    400030: WhiteLight1
+    400032: WhiteLight2
+    400034: Windows
+    2300000: Ambulance01
+    2300002: redLight1
+    2300004: WheelBL
+    2300006: WheelBR
+    2300008: WheelFL
+    2300010: WheelFR
+    2300012: RedLights
+    2300014: WhiteLights
+    2300016: LeftHeadLight
+    2300018: RedLight1
+    2300020: RedLight2
+    2300022: RedLight3
+    2300024: RedLight4
+    2300026: RightHeadLight
+    2300028: WhiteLight1
+    2300030: WhiteLight2
+    2300032: Windows
+    3300000: Ambulance01
+    3300002: redLight1
+    3300004: WheelBL
+    3300006: WheelBR
+    3300008: WheelFL
+    3300010: WheelFR
+    3300012: RedLights
+    3300014: WhiteLights
+    3300016: LeftHeadLight
+    3300018: RedLight1
+    3300020: RedLight2
+    3300022: RedLight3
+    3300024: RedLight4
+    3300026: RightHeadLight
+    3300028: WhiteLight1
+    3300030: WhiteLight2
+    3300032: Windows
+    4300000: Ambulance01
+    4300002: WheelBR
+    4300004: WheelFR
+    4300006: WheelBL
+    4300008: WheelFL
+    4300010: redLight1
+    4300012: RedLights
+    4300014: WhiteLights
+    4300016: RightHeadLight
+    4300018: LeftHeadLight
+    4300020: RedLight1
+    4300022: RedLight2
+    4300024: RedLight3
+    4300026: RedLight4
+    4300028: WhiteLight1
+    4300030: WhiteLight2
+    4300032: Windows
+    6400000: Ambulance01
+    6400002: redLight1
+    6400004: WheelBL
+    6400006: WheelBR
+    6400008: WheelFL
+    6400010: WheelFR
+    6400012: RedLights
+    6400014: WhiteLights
+    6400016: LeftHeadLight
+    6400018: RedLight1
+    6400020: RedLight2
+    6400022: RedLight3
+    6400024: RedLight4
+    6400026: RightHeadLight
+    6400028: WhiteLight1
+    6400030: WhiteLight2
+    6400032: Windows
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

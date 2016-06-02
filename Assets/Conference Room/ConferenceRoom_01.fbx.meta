@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 43924e3d7244de348888cab860b25df1
+timeCreated: 1464207867
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottle
+    100002: bottle 1
+    100004: bottle 2
+    100006: bottle 3
+    100008: bottle3
+    100010: bottle3 1
+    100012: bottle3 2
+    100014: bottle3 3
+    100016: bottle4
+    100018: bottle4 1
+    100020: bottle4 2
+    100022: bottle4 3
+    100024: CF_Blinds
+    100026: CF_Lights
+    100028: chair_010
+    100030: chair_011
+    100032: chair_04
+    100034: chair_05
+    100036: chair_06
+    100038: chair_07
+    100040: chair_08
+    100042: chair_09
+    100044: Conference_Table
+    100046: //RootNode
+    100048: ConferenceRoom_Walls
+    100050: Document_07
+    100052: Document_08
+    100054: group19
+    100056: group19 1
+    100058: group19 2
+    100060: group19 3
+    100062: lightHolder
+    100064: Lights
+    100066: Moulding
+    100068: Pencil_Holder1
+    100070: Pencil_Holder2
+    100072: Planter
+    100074: pPlane37
+    100076: redBook_015
+    100078: TV
+    100080: TV_Stand
+    100082: Water_Group1
+    100084: Water_Group2
+    100086: Water_Group3
+    100088: WaterBottle_Group
+    100090: WaterBottle_Group 1
+    100092: WaterBottle_Group 2
+    100094: WaterBottle_Group 3
+    400000: bottle
+    400002: bottle 1
+    400004: bottle 2
+    400006: bottle 3
+    400008: bottle3
+    400010: bottle3 1
+    400012: bottle3 2
+    400014: bottle3 3
+    400016: bottle4
+    400018: bottle4 1
+    400020: bottle4 2
+    400022: bottle4 3
+    400024: CF_Blinds
+    400026: CF_Lights
+    400028: chair_010
+    400030: chair_011
+    400032: chair_04
+    400034: chair_05
+    400036: chair_06
+    400038: chair_07
+    400040: chair_08
+    400042: chair_09
+    400044: Conference_Table
+    400046: //RootNode
+    400048: ConferenceRoom_Walls
+    400050: Document_07
+    400052: Document_08
+    400054: group19
+    400056: group19 1
+    400058: group19 2
+    400060: group19 3
+    400062: lightHolder
+    400064: Lights
+    400066: Moulding
+    400068: Pencil_Holder1
+    400070: Pencil_Holder2
+    400072: Planter
+    400074: pPlane37
+    400076: redBook_015
+    400078: TV
+    400080: TV_Stand
+    400082: Water_Group1
+    400084: Water_Group2
+    400086: Water_Group3
+    400088: WaterBottle_Group
+    400090: WaterBottle_Group 1
+    400092: WaterBottle_Group 2
+    400094: WaterBottle_Group 3
+    2300000: bottle
+    2300002: bottle 1
+    2300004: bottle 2
+    2300006: bottle 3
+    2300008: bottle3
+    2300010: bottle3 1
+    2300012: bottle3 2
+    2300014: bottle3 3
+    2300016: bottle4
+    2300018: bottle4 1
+    2300020: bottle4 2
+    2300022: bottle4 3
+    2300024: CF_Blinds
+    2300026: CF_Lights
+    2300028: chair_010
+    2300030: chair_011
+    2300032: chair_04
+    2300034: chair_05
+    2300036: chair_06
+    2300038: chair_07
+    2300040: chair_08
+    2300042: chair_09
+    2300044: Conference_Table
+    2300046: ConferenceRoom_Walls
+    2300048: Document_07
+    2300050: Document_08
+    2300052: lightHolder
+    2300054: Lights
+    2300056: Moulding
+    2300058: Pencil_Holder1
+    2300060: Pencil_Holder2
+    2300062: Planter
+    2300064: pPlane37
+    2300066: redBook_015
+    2300068: TV
+    2300070: TV_Stand
+    2300072: WaterBottle_Group
+    2300074: WaterBottle_Group 1
+    2300076: WaterBottle_Group 2
+    2300078: WaterBottle_Group 3
+    3300000: bottle
+    3300002: bottle 1
+    3300004: bottle 2
+    3300006: bottle 3
+    3300008: bottle3
+    3300010: bottle3 1
+    3300012: bottle3 2
+    3300014: bottle3 3
+    3300016: bottle4
+    3300018: bottle4 1
+    3300020: bottle4 2
+    3300022: bottle4 3
+    3300024: CF_Blinds
+    3300026: CF_Lights
+    3300028: chair_010
+    3300030: chair_011
+    3300032: chair_04
+    3300034: chair_05
+    3300036: chair_06
+    3300038: chair_07
+    3300040: chair_08
+    3300042: chair_09
+    3300044: Conference_Table
+    3300046: ConferenceRoom_Walls
+    3300048: Document_07
+    3300050: Document_08
+    3300052: lightHolder
+    3300054: Lights
+    3300056: Moulding
+    3300058: Pencil_Holder1
+    3300060: Pencil_Holder2
+    3300062: Planter
+    3300064: pPlane37
+    3300066: redBook_015
+    3300068: TV
+    3300070: TV_Stand
+    3300072: WaterBottle_Group
+    3300074: WaterBottle_Group 1
+    3300076: WaterBottle_Group 2
+    3300078: WaterBottle_Group 3
+    4300000: Conference_Table
+    4300002: chair_04
+    4300004: chair_05
+    4300006: chair_06
+    4300008: chair_07
+    4300010: chair_08
+    4300012: chair_09
+    4300014: chair_010
+    4300016: chair_011
+    4300018: Pencil_Holder1
+    4300020: Pencil_Holder2
+    4300022: Document_07
+    4300024: redBook_015
+    4300026: Document_08
+    4300028: bottle
+    4300030: bottle4
+    4300032: bottle3
+    4300034: WaterBottle_Group
+    4300036: bottle
+    4300038: bottle4
+    4300040: bottle3
+    4300042: WaterBottle_Group
+    4300044: bottle
+    4300046: bottle4
+    4300048: bottle3
+    4300050: WaterBottle_Group
+    4300052: ConferenceRoom_Walls
+    4300054: TV_Stand
+    4300056: TV
+    4300058: CF_Lights
+    4300060: CF_Blinds
+    4300062: Moulding
+    4300064: Planter
+    4300066: pPlane37
+    4300068: WaterBottle_Group
+    4300070: bottle
+    4300072: bottle4
+    4300074: bottle3
+    4300076: lightHolder
+    4300078: Lights
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
