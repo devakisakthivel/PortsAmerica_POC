@@ -20,6 +20,8 @@ ModelImporter:
     4300000: curtain
     4300002: curtain A
     4300004: curtain B
+    6400000: curtain A
+    6400002: curtain B
   materials:
     importMaterials: 1
     materialName: 0
@@ -46,7 +48,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 1

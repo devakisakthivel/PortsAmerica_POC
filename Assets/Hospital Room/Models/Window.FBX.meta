@@ -22,6 +22,9 @@ ModelImporter:
     4300000: window frame
     4300002: window A
     4300004: window B
+    6400000: window A
+    6400002: window B
+    6400004: window frame
   materials:
     importMaterials: 1
     materialName: 0
@@ -48,10 +51,10 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1.25
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
