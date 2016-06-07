@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 05de00ef5c42c644e9afdfea55e26481
-timeCreated: 1464273306
+timeCreated: 1465245892
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -472,7 +472,19 @@ ModelImporter:
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
-    animationImportWarnings: 
+    animationImportWarnings: "\nInbetween bone default rotation found in this file
+      is different from the one found in the source avatar:\n\t'TTChar:Spine3' : rotation
+      error = 2.146852 deg\n\t'TTChar:Ribcage' : rotation error = 4.299741 deg\n\t'TTChar:LPalm'
+      : rotation error = 22.702702 deg\n\t'TTChar:RPalm' : rotation error = 24.580894
+      deg\n\t'TTChar:Neck2' : rotation error = 5.193171 deg\n\nClip 'WeldingLevel-001'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'TTChar:Spine3'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'TTChar:Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'TTChar:Ribcage'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'TTChar:LPalm'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'TTChar:RPalm'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'TTChar:Neck2'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 3
@@ -504,7 +516,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     human:
@@ -670,30 +682,6 @@ ModelImporter:
         modified: 0
     - boneName: TTChar:RFootBone
       humanName: RightToes
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: L Eye
-      humanName: LeftEye
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: R Eye
-      humanName: RightEye
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: TTChar:HeadJaw001
-      humanName: Jaw
       limit:
         min: {x: 0, y: 0, z: 0}
         max: {x: 0, y: 0, z: 0}
