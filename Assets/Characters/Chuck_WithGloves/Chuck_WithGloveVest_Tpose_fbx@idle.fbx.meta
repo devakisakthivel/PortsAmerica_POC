@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 4a5f46ec5420d7d44b5d337f522a71fc
-timeCreated: 1464370777
+timeCreated: 1465398694
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -482,7 +482,14 @@ ModelImporter:
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
-    animationImportWarnings: 
+    animationImportWarnings: "\nInbetween bone default rotation found in this file
+      is different from the one found in the source avatar:\n\t'Fbx01_Spine3' : rotation
+      error = 1.452768 deg\n\t'Fbx01_Neck' : rotation error = 13.088268 deg\n\nClip
+      'Chuck_WithGloveVest@idle' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Fbx01_Spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Fbx01_Spine3'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Fbx01_Neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 3
@@ -672,14 +679,6 @@ ModelImporter:
         modified: 0
     - boneName: Fbx01_R_Eye
       humanName: RightEye
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: Jaw
-      humanName: Jaw
       limit:
         min: {x: 0, y: 0, z: 0}
         max: {x: 0, y: 0, z: 0}
