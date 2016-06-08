@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 1ee5dc4facf5aeb4bbc07631305f7a85
+timeCreated: 1465333134
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Organizations_Text_0
+    21300002: Organizations_Text_1
+    21300004: Organizations_Text_3
+    21300006: Organizations_Text_6
+    21300008: Organizations_Text_10
+    21300010: Organizations_Text_15
+    21300012: Organizations_Text_22
+    21300014: Organizations_Text_30
+    21300016: Organizations_Text_40
+    21300018: Organizations_Text_52
+    21300020: Organizations_Text_65
+    21300022: Organizations_Text_79
+    21300024: Organizations_Text_9
+    21300026: Organizations_Text_13
+    21300028: Organizations_Text_19
+    21300030: Organizations_Text_26
+    21300032: Organizations_Text_34
+    21300034: Organizations_Text_42
+    21300036: Organizations_Text_63
+    21300038: Organizations_Text_75
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Organizations_Text_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 503
+        width: 28
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Organizations_Text_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 463
+        width: 44
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Organizations_Text_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 415
+        width: 66
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.109176636, y: 1.5825806}
+        - {x: 0.109176636, y: -36.41742}
+        - {x: 5.1091766, y: -37.41742}
+        - {x: 63.109177, y: -37.41742}
+        - {x: 63.109177, y: 1.5825806}
+    - name: Organizations_Text_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 374
+        width: 90
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.8825703, y: 0.565155}
+        - {x: -0.11742973, y: -0.43484497}
+        - {x: -0.11742973, y: -32.434845}
+        - {x: 1.8825703, y: -37.434845}
+        - {x: 85.88257, y: -37.434845}
+        - {x: 85.88257, y: -2.434845}
+        - {x: 45.88257, y: 0.565155}
+    - name: Organizations_Text_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 333
+        width: 113
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.18624306, y: 1.5477295}
+        - {x: 0.18624306, y: -31.45227}
+        - {x: 19.186243, y: -37.45227}
+        - {x: 94.18624, y: -37.45227}
+        - {x: 107.18624, y: -34.45227}
+        - {x: 107.18624, y: -4.4522705}
+        - {x: 78.18624, y: 1.5477295}
+    - name: Organizations_Text_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 292
+        width: 122
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106.913765, y: 0.53030396}
+        - {x: 104.913765, y: -0.46969604}
+        - {x: 91.913765, y: 0.53030396}
+        - {x: 0.91376686, y: 0.53030396}
+        - {x: -0.08623314, y: -2.469696}
+        - {x: -0.08623314, y: -32.469696}
+        - {x: 5.913767, y: -37.469696}
+        - {x: 115.913765, y: -37.469696}
+        - {x: 115.913765, y: 0.53030396}
+    - name: Organizations_Text_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 251
+        width: 144
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.24770546, y: 1.5128326}
+        - {x: 0.24770546, y: -37.487167}
+        - {x: 136.24771, y: -37.487167}
+        - {x: 136.24771, y: -5.4871674}
+        - {x: 128.24771, y: 1.5128326}
+    - name: Organizations_Text_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 210
+        width: 167
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.05137825, y: 0.4954071}
+        - {x: 0.05137825, y: -30.504593}
+        - {x: 15.051378, y: -37.504593}
+        - {x: 137.05138, y: -37.504593}
+        - {x: 158.05138, y: -34.504593}
+        - {x: 158.05138, y: 0.4954071}
+    - name: Organizations_Text_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 169
+        width: 185
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.0064258575, y: 1.4779816}
+        - {x: 0.0064258575, y: -30.522018}
+        - {x: 8.006426, y: -37.52202}
+        - {x: 163.00642, y: -37.52202}
+        - {x: 175.00642, y: -33.52202}
+        - {x: 175.00642, y: 1.4779816}
+    - name: Organizations_Text_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 128
+        width: 194
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 176.23395, y: 0.46055603}
+        - {x: 174.23395, y: -0.53944397}
+        - {x: 171.23395, y: 0.46055603}
+        - {x: 2.2339497, y: 0.46055603}
+        - {x: 0.23394966, y: -3.539444}
+        - {x: 0.23394966, y: -31.539444}
+        - {x: 10.23395, y: -37.539444}
+        - {x: 183.23395, y: -37.539444}
+        - {x: 183.23395, y: 0.46055603}
+    - name: Organizations_Text_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 87
+        width: 219
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190.97707, y: 1.4431229}
+        - {x: -0.022932053, y: 1.4431229}
+        - {x: -0.022932053, y: -32.556877}
+        - {x: 1.977068, y: -37.556877}
+        - {x: 206.97707, y: -37.556877}
+        - {x: 206.97707, y: -10.556877}
+        - {x: 201.97707, y: -4.556877}
+    - name: Organizations_Text_63
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 46
+        width: 241
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 207.81102, y: -6.574314}
+        - {x: 205.81102, y: -8.574314}
+        - {x: 205.81102, y: -14.574314}
+        - {x: 205.81102, y: -12.574314}
+        - {x: 201.81102, y: -8.574314}
+        - {x: 191.81102, y: 0.42568588}
+        - {x: -0.1889782, y: 0.42568588}
+        - {x: -0.1889782, y: -37.574314}
+        - {x: 218.81102, y: -37.574314}
+        - {x: 227.81102, y: -33.574314}
+        - {x: 227.81102, y: -10.574314}
+        - {x: 220.81102, y: -5.574314}
+    - name: Organizations_Text_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 260
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 207.23578, y: -5.5917435}
+        - {x: 206.23578, y: -8.591743}
+        - {x: 206.23578, y: -13.591743}
+        - {x: 206.23578, y: -11.591743}
+        - {x: 202.23578, y: -8.591743}
+        - {x: 184.23578, y: 1.4082565}
+        - {x: 0.23578072, y: 1.4082565}
+        - {x: 0.23578072, y: -27.591743}
+        - {x: 10.235781, y: -32.591743}
+        - {x: 19.23578, y: -33.591743}
+        - {x: 31.23578, y: -37.591743}
+        - {x: 245.23578, y: -37.591743}
+        - {x: 245.23578, y: -6.5917435}
+        - {x: 242.23578, y: -5.5917435}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: b1092de2c989e234da9150daf0e07ffa
+timeCreated: 1465330365
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Performing_Text_6
+    21300002: Performing_Text_9
+    21300004: Performing_Text_10
+    21300006: Performing_Text_13
+    21300008: Performing_Text_18
+    21300010: Performing_Text_21
+    21300012: Performing_Text_24
+    21300014: Performing_Text_29
+    21300016: Performing_Text_38
+    21300018: Performing_Text_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Performing_Text_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 310
+        width: 59
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: -1}
+        - {x: 30, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -32}
+        - {x: 57, y: -32}
+        - {x: 59, y: -22}
+        - {x: 59, y: -5}
+    - name: Performing_Text_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 267
+        width: 74
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: -7}
+        - {x: 72, y: -7}
+        - {x: 74, y: -6}
+        - {x: 74, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -32}
+        - {x: 73, y: -32}
+        - {x: 74, y: -23}
+        - {x: 74, y: -7}
+    - name: Performing_Text_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 353
+        width: 44
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -32}
+        - {x: 44, y: -32}
+        - {x: 44, y: -7}
+        - {x: 21, y: 0}
+    - name: Performing_Text_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 224
+        width: 97
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: -7}
+        - {x: 88, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -32}
+        - {x: 97, y: -32}
+    - name: Performing_Text_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 181
+        width: 113
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -5}
+        - {x: 73, y: -7}
+        - {x: 71, y: -7}
+        - {x: 73, y: -7}
+        - {x: 76, y: -4}
+        - {x: 79, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -32}
+        - {x: 111, y: -32}
+        - {x: 113, y: -23}
+        - {x: 113, y: -5}
+    - name: Performing_Text_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 395
+        width: 21
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Performing_Text_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 138
+        width: 147
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 0}
+        - {x: 73, y: -7}
+        - {x: 71, y: -7}
+        - {x: 73, y: -7}
+        - {x: 76, y: -4}
+        - {x: 79, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -32}
+        - {x: 147, y: -32}
+        - {x: 147, y: -5}
+        - {x: 114, y: 0}
+    - name: Performing_Text_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 95
+        width: 157
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: -4}
+        - {x: 100, y: -3}
+        - {x: 73, y: -7}
+        - {x: 71, y: -7}
+        - {x: 73, y: -7}
+        - {x: 76, y: -4}
+        - {x: 79, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -32}
+        - {x: 149, y: -32}
+        - {x: 149, y: -11}
+      - - {x: 153, y: -7}
+        - {x: 150, y: -10}
+        - {x: 150, y: -32}
+        - {x: 157, y: -32}
+        - {x: 157, y: -8}
+        - {x: 156, y: -7}
+      - - {x: 150, y: 0}
+        - {x: 150, y: -5}
+        - {x: 151, y: -7}
+        - {x: 156, y: -7}
+        - {x: 157, y: -6}
+        - {x: 157, y: 0}
+    - name: Performing_Text_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 52
+        width: 181
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: -4}
+        - {x: 100, y: -3}
+        - {x: 73, y: -7}
+        - {x: 71, y: -7}
+        - {x: 73, y: -7}
+        - {x: 76, y: -4}
+        - {x: 79, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -32}
+        - {x: 149, y: -32}
+        - {x: 149, y: -11}
+      - - {x: 150, y: -10}
+        - {x: 150, y: -32}
+        - {x: 159, y: -32}
+        - {x: 159, y: -10}
+        - {x: 156, y: -7}
+        - {x: 153, y: -7}
+      - - {x: 160, y: -7}
+        - {x: 160, y: -32}
+        - {x: 181, y: -32}
+        - {x: 181, y: -11}
+        - {x: 179, y: -7}
+      - - {x: 150, y: 0}
+        - {x: 150, y: -5}
+        - {x: 151, y: -7}
+        - {x: 158, y: -7}
+        - {x: 159, y: -5}
+        - {x: 159, y: 0}
+    - name: Performing_Text_48
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3
+        width: 201
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 160, y: -7}
+        - {x: 160, y: -38}
+        - {x: 201, y: -38}
+        - {x: 201, y: -7}
+      - - {x: 53, y: -32}
+        - {x: 64, y: -34}
+        - {x: 149, y: -34}
+        - {x: 149, y: -13}
+        - {x: 145, y: -8}
+        - {x: 129, y: -6}
+        - {x: 101, y: -4}
+        - {x: 73, y: -7}
+        - {x: 71, y: -7}
+        - {x: 73, y: -7}
+        - {x: 76, y: -4}
+        - {x: 76, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -34}
+        - {x: 5, y: -34}
+        - {x: 7, y: -32}
+        - {x: 18, y: -34}
+        - {x: 52, y: -34}
+      - - {x: 153, y: -7}
+        - {x: 150, y: -8}
+        - {x: 150, y: -34}
+        - {x: 159, y: -34}
+        - {x: 159, y: -7}
+      - - {x: 150, y: 0}
+        - {x: 150, y: -5}
+        - {x: 151, y: -7}
+        - {x: 158, y: -7}
+        - {x: 159, y: -5}
+        - {x: 159, y: 0}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
