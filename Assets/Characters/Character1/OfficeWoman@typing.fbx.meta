@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 1f7441c12bc7ded44a3080aed7097d5d
+timeCreated: 1465414067
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BrowInnerL
+    100002: BrowInnerR
+    100004: BrowOuterL
+    100006: BrowOuterR
+    100008: CheekL
+    100010: CheekR
+    100012: H_DDS_MidRes
+    100014: Head
+    100016: HeadEnd
+    100018: Hips
+    100020: Jaw
+    100022: l_wig
+    100024: LeftArm
+    100026: LeftEye
+    100028: LeftFingerBase
+    100030: LeftFoot
+    100032: LeftForeArm
+    100034: LeftHand
+    100036: LeftHandIndex0
+    100038: LeftHandIndex1
+    100040: LeftHandIndex2
+    100042: LeftHandIndex3
+    100044: LeftHandIndex4
+    100046: LeftHandMiddle1
+    100048: LeftHandMiddle2
+    100050: LeftHandMiddle3
+    100052: LeftHandMiddle4
+    100054: LeftHandPinky0
+    100056: LeftHandPinky1
+    100058: LeftHandPinky2
+    100060: LeftHandPinky3
+    100062: LeftHandPinky4
+    100064: LeftHandRing1
+    100066: LeftHandRing2
+    100068: LeftHandRing3
+    100070: LeftHandRing4
+    100072: LeftHandThumb1
+    100074: LeftHandThumb2
+    100076: LeftHandThumb3
+    100078: LeftHandThumb4
+    100080: LeftLeg
+    100082: LeftShoulder
+    100084: LeftToeBase
+    100086: LeftToeEnd
+    100088: LeftUpLeg
+    100090: Lights
+    100092: LipCornerL
+    100094: LipCornerR
+    100096: LipLowerL
+    100098: LipLowerR
+    100100: LipUpperL
+    100102: LipUpperR
+    100104: LowerLidL
+    100106: LowerLidR
+    100108: m_L_eye
+    100110: m_L_gland
+    100112: m_L_trans
+    100114: m_R_eye
+    100116: m_R_gland
+    100118: m_R_trans
+    100120: m_TeethDown
+    100122: m_TeethUp
+    100124: master
+    100126: Neck
+    100128: Nostrils
+    100130: //RootNode
+    100132: Reference
+    100134: RightArm
+    100136: RightEye
+    100138: RightFingerBase
+    100140: RightFoot
+    100142: RightForeArm
+    100144: RightHand
+    100146: RightHandIndex0
+    100148: RightHandIndex1
+    100150: RightHandIndex2
+    100152: RightHandIndex3
+    100154: RightHandIndex4
+    100156: RightHandMiddle1
+    100158: RightHandMiddle2
+    100160: RightHandMiddle3
+    100162: RightHandMiddle4
+    100164: RightHandPinky0
+    100166: RightHandPinky1
+    100168: RightHandPinky2
+    100170: RightHandPinky3
+    100172: RightHandPinky4
+    100174: RightHandRing1
+    100176: RightHandRing2
+    100178: RightHandRing3
+    100180: RightHandRing4
+    100182: RightHandThumb1
+    100184: RightHandThumb2
+    100186: RightHandThumb3
+    100188: RightHandThumb4
+    100190: RightLeg
+    100192: RightShoulder
+    100194: RightToeBase
+    100196: RightToeEnd
+    100198: RightUpLeg
+    100200: Spine
+    100202: Spine1
+    100204: Spine2
+    100206: spotLight1
+    100208: spotLight2
+    100210: spotLight3
+    100212: spotLight4
+    100214: TongueF
+    100216: TongueR
+    100218: UpperLidL
+    100220: UpperLidR
+    400000: BrowInnerL
+    400002: BrowInnerR
+    400004: BrowOuterL
+    400006: BrowOuterR
+    400008: CheekL
+    400010: CheekR
+    400012: H_DDS_MidRes
+    400014: Head
+    400016: HeadEnd
+    400018: Hips
+    400020: Jaw
+    400022: l_wig
+    400024: LeftArm
+    400026: LeftEye
+    400028: LeftFingerBase
+    400030: LeftFoot
+    400032: LeftForeArm
+    400034: LeftHand
+    400036: LeftHandIndex0
+    400038: LeftHandIndex1
+    400040: LeftHandIndex2
+    400042: LeftHandIndex3
+    400044: LeftHandIndex4
+    400046: LeftHandMiddle1
+    400048: LeftHandMiddle2
+    400050: LeftHandMiddle3
+    400052: LeftHandMiddle4
+    400054: LeftHandPinky0
+    400056: LeftHandPinky1
+    400058: LeftHandPinky2
+    400060: LeftHandPinky3
+    400062: LeftHandPinky4
+    400064: LeftHandRing1
+    400066: LeftHandRing2
+    400068: LeftHandRing3
+    400070: LeftHandRing4
+    400072: LeftHandThumb1
+    400074: LeftHandThumb2
+    400076: LeftHandThumb3
+    400078: LeftHandThumb4
+    400080: LeftLeg
+    400082: LeftShoulder
+    400084: LeftToeBase
+    400086: LeftToeEnd
+    400088: LeftUpLeg
+    400090: Lights
+    400092: LipCornerL
+    400094: LipCornerR
+    400096: LipLowerL
+    400098: LipLowerR
+    400100: LipUpperL
+    400102: LipUpperR
+    400104: LowerLidL
+    400106: LowerLidR
+    400108: m_L_eye
+    400110: m_L_gland
+    400112: m_L_trans
+    400114: m_R_eye
+    400116: m_R_gland
+    400118: m_R_trans
+    400120: m_TeethDown
+    400122: m_TeethUp
+    400124: master
+    400126: Neck
+    400128: Nostrils
+    400130: //RootNode
+    400132: Reference
+    400134: RightArm
+    400136: RightEye
+    400138: RightFingerBase
+    400140: RightFoot
+    400142: RightForeArm
+    400144: RightHand
+    400146: RightHandIndex0
+    400148: RightHandIndex1
+    400150: RightHandIndex2
+    400152: RightHandIndex3
+    400154: RightHandIndex4
+    400156: RightHandMiddle1
+    400158: RightHandMiddle2
+    400160: RightHandMiddle3
+    400162: RightHandMiddle4
+    400164: RightHandPinky0
+    400166: RightHandPinky1
+    400168: RightHandPinky2
+    400170: RightHandPinky3
+    400172: RightHandPinky4
+    400174: RightHandRing1
+    400176: RightHandRing2
+    400178: RightHandRing3
+    400180: RightHandRing4
+    400182: RightHandThumb1
+    400184: RightHandThumb2
+    400186: RightHandThumb3
+    400188: RightHandThumb4
+    400190: RightLeg
+    400192: RightShoulder
+    400194: RightToeBase
+    400196: RightToeEnd
+    400198: RightUpLeg
+    400200: Spine
+    400202: Spine1
+    400204: Spine2
+    400206: spotLight1
+    400208: spotLight2
+    400210: spotLight3
+    400212: spotLight4
+    400214: TongueF
+    400216: TongueR
+    400218: UpperLidL
+    400220: UpperLidR
+    4300000: m_TeethUp
+    4300002: m_L_gland
+    4300004: m_L_eye
+    4300006: m_L_trans
+    4300008: m_R_gland
+    4300010: m_R_eye
+    4300012: m_R_trans
+    4300014: l_wig
+    4300016: H_DDS_MidRes
+    4300018: m_TeethDown
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: H_DDS_MidRes
+    13700002: l_wig
+    13700004: m_L_eye
+    13700006: m_L_gland
+    13700008: m_L_trans
+    13700010: m_R_eye
+    13700012: m_R_gland
+    13700014: m_R_trans
+    13700016: m_TeethDown
+    13700018: m_TeethUp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'mixamo.com' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: "\nRetargeting quality report for clip 'mixamo.com':\n\tLeftUpperArm
+      average position error 27.9 mm and maximum position error 34.7 mm at time 10:21
+      (65.0%) Frame 321\n\tLeftLowerArm average position error 22.6 mm and maximum
+      position error 26.3 mm at time 9: 8 (56.3%) Frame 278\n\tLeftHand average position
+      error 24.0 mm and maximum position error 30.1 mm at time 10:21 (65.0%) Frame
+      321\n\tRightUpperArm average position error 27.9 mm and maximum position error
+      34.7 mm at time 10:21 (65.0%) Frame 321\n\tRightLowerArm average position error
+      23.8 mm and maximum position error 29.8 mm at time 10: 7 (62.1%) Frame 307\n\tRightHand
+      average position error 24.5 mm and maximum position error 31.1 mm at time 10:
+      8 (62.3%) Frame 308\n\tHead average position error 27.9 mm and maximum position
+      error 34.7 mm at time 10:21 (65.0%) Frame 321\n"
+    animationDoRetargetingWarnings: 1
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 14b03a139b0c5d6409866cebc00641c5,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
