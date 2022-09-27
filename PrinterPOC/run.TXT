@@ -1,0 +1,5 @@
+cd C:\Users\username\Desktop\PrinterPOC
+
+javac PrinterPOC.java
+
+java PrinterPOC "CITIZEN PMU3300" "Microsoft Print to PDF" C:\\Users\\username\\\Desktop\\PrinterPOC\\icon.jpg C:\\Users\\username\\Desktop\\PrinterPOC\\PrintPages\\
